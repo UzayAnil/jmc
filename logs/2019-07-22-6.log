@@ -1,0 +1,679 @@
+[20:32:57] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[20:32:57] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[20:32:57] [Server thread/INFO]: Loading properties
+[20:32:57] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-5e4e7f3-2349feb (MC: 1.14.3) (Implementing API version 1.14.3-R0.1-SNAPSHOT)
+[20:32:57] [Server thread/INFO]: Debug logging is disabled
+[20:32:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:32:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:32:57] [Server thread/INFO]: Default game type: SURVIVAL
+[20:32:57] [Server thread/INFO]: Generating keypair
+[20:32:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:32:58] [Server thread/INFO]: Using default channel type
+[20:33:08] [Server thread/WARN]: Plugin HubThat v8.0 does not specify an api-version.
+[20:33:08] [Server thread/WARN]: Plugin PermissionsEx v1.23.4 does not specify an api-version.
+[20:33:08] [Server thread/WARN]: Plugin AutoMessage v2.5.5 does not specify an api-version.
+[20:33:08] [Server thread/WARN]: Plugin FoundBoxx v1.9.2 does not specify an api-version.
+[20:33:09] [Server thread/WARN]: Plugin TNTRun v1.1 does not specify an api-version.
+[20:33:09] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
+[20:33:11] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7ddd99f]
+[20:33:11] [Server thread/INFO]: [PhantomSpawnControl] Loading PhantomSpawnControl v2.1.0
+[20:33:11] [Server thread/INFO]: [HubThat] Loading HubThat v8.0
+[20:33:11] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.0.6
+[20:33:11] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[20:33:11] [Server thread/INFO]: [ArmorStandEditor] Loading ArmorStandEditor v1.13-21
+[20:33:11] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.5
+[20:33:11] [Server thread/INFO]: [CrackShot] Loading CrackShot v0.98.9
+[20:33:11] [Server thread/INFO]: [GSit] Loading GSit v[2.6.4.0]
+[20:33:11] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[20:33:11] [Server thread/INFO]: [FoundBoxx] Loading FoundBoxx v1.9.2
+[20:33:11] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.17.1
+[20:33:11] [Server thread/INFO]: [Essentials] Loading Essentials v2.16.1.0
+[20:33:12] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.16.1.0
+[20:33:12] [Server thread/INFO]: [TNTRun] Loading TNTRun v1.1
+[20:33:12] [Server thread/INFO]: [Factions] Loading Factions v1.6.9.5-U0.2.1-RC-1.6.2-RELEASE
+[20:33:12] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
+[20:33:12] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:33:12] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:33:12] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[20:33:12] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[20:33:12] [Server thread/WARN]: [WorldEdit]   
+[20:33:12] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[20:33:12] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[20:33:12] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[20:33:12] [Server thread/WARN]: [WorldEdit]   
+[20:33:12] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[20:33:12] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[20:33:12] [Server thread/WARN]: [WorldEdit]   
+[20:33:12] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[20:33:12] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[20:33:12] [Server thread/WARN]: [WorldEdit]   
+[20:33:12] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[20:33:12] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:33:12] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[20:33:12] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[20:33:12] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[20:33:12] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:33:12] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[20:33:12] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[20:33:12] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[20:33:12] [Server thread/INFO]: Preparing level "world"
+[20:33:12] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:33:13] [Server thread/INFO]: Loaded 6 recipes
+[20:33:13] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:33:13] [Server thread/INFO]: View Distance: 10
+[20:33:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:33:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:33:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:33:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:33:13] [Server thread/INFO]: Max TNT Explosions: 100
+[20:33:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:33:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:33:13] [Server thread/INFO]: Mob Spawn Range: 6
+[20:33:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:33:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:33:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:33:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:33:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:33:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:33:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:33:14] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R2 as the Bukkit adapter
+[20:33:14] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:33:14] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:33:14] [Server thread/INFO]: View Distance: 10
+[20:33:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:33:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:33:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:33:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:33:14] [Server thread/INFO]: Max TNT Explosions: 100
+[20:33:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:33:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:33:14] [Server thread/INFO]: Mob Spawn Range: 6
+[20:33:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:33:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:33:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:33:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:33:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:33:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:33:14] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:33:14] [Server thread/INFO]: View Distance: 10
+[20:33:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:33:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:33:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:33:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:33:14] [Server thread/INFO]: Max TNT Explosions: 100
+[20:33:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:33:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:33:14] [Server thread/INFO]: Mob Spawn Range: 6
+[20:33:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:33:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:33:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:33:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:33:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:33:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:33:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:33:14] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[20:33:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:17] [Server thread/INFO]: Time elapsed: 3083 ms
+[20:33:17] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[20:33:19] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:19] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:19] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:19] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:19] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:20] [Server-Worker-3/INFO]: Preparing spawn area: 93%
+[20:33:20] [Server-Worker-5/INFO]: Preparing spawn area: 93%
+[20:33:21] [Server-Worker-2/INFO]: Preparing spawn area: 96%
+[20:33:21] [Server thread/INFO]: Time elapsed: 3670 ms
+[20:33:21] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[20:33:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:23] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[20:33:23] [Server thread/INFO]: Time elapsed: 1953 ms
+[20:33:23] [Server thread/INFO]: [PhantomSpawnControl] Enabling PhantomSpawnControl v2.1.0
+[20:33:23] [Server thread/INFO]: [PhantomSpawnControl] This plugin was made by alex_qp.
+[20:33:23] [Server thread/INFO]: [HubThat] Enabling HubThat v8.0
+[20:33:27] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.0.6
+[20:33:27] [Server thread/INFO]: [ClearLag] Loading modules...
+[20:33:27] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[20:33:27] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[20:33:27] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[20:33:27] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[20:33:27] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.14]...
+[20:33:27] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[20:33:27] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[20:33:27] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:33:27] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[20:33:27] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[20:33:27] [Server thread/INFO]: [ArmorStandEditor] Enabling ArmorStandEditor v1.13-21
+[20:33:27] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5
+[20:33:27] [Server thread/INFO]: [CrackShot] Enabling CrackShot v0.98.9
+[20:33:27] [Server thread/INFO]: [CrackShot] Gun-mode activated. Boop!
+[20:33:27] [Server thread/INFO]: [GSit] Enabling GSit v[2.6.4.0]
+[20:33:27] [Server thread/INFO]: [GSit] The Plugin was successfully enabled.
+[20:33:27] [Server thread/INFO]: [FoundBoxx] Enabling FoundBoxx v1.9.2
+[20:33:27] [Server thread/INFO]: [FoundBoxx] PermissionsEX found for custom permissions plugin.
+[20:33:27] [Server thread/INFO]: [FoundBoxx v1.9.2] Enabled.
+[20:33:27] [Server thread/INFO]: [FoundBoxx v1.9.2] Stats collection is is enabled.
+[20:33:27] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.17.1
+[20:33:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.16.1.0
+[20:33:27] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[20:33:27] [Thread-8/INFO]: [ClearLag] No updates found!
+[20:33:27] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[20:33:27] [Server thread/INFO]: No kits found to migrate.
+[20:33:28] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[20:33:28] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[20:33:28] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[20:33:28] [Server thread/INFO]: Loaded 19480 items from items.json.
+[20:33:28] [Server thread/INFO]: Using locale en_US
+[20:33:28] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:33:28] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:33:28] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[20:33:28] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[20:33:28] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.16.1.0
+[20:33:28] [Server thread/INFO]: [TNTRun] Enabling TNTRun v1.1
+[20:33:28] [Server thread/INFO]: [Factions] Enabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RELEASE
+[20:33:28] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RELEASE] ==== Setup ====
+[20:33:28] [Server thread/ERROR]: Error occurred while enabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RELEASE (Is it up to date?)
+java.lang.IllegalArgumentException: No enum constant org.bukkit.Material.BANNER
+	at java.lang.Enum.valueOf(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.Material.valueOf(Material.java:1) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.massivecraft.factions.SavageFactions.setupMultiversionMaterials(SavageFactions.java:284) ~[?:?]
+	at com.massivecraft.factions.SavageFactions.onEnable(SavageFactions.java:148) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:352) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:461) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:375) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:439) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.init(DedicatedServer.java:258) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:764) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[20:33:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:33:29] [Server thread/INFO]: Done (16.768s)! For help, type "help"
+[20:33:29] [Server thread/INFO]: [PhantomSpawnControl] Enabled GameModes (Reset): [SURVIVAL, ADVENTURE]
+[20:33:29] [Craft Scheduler Thread - 6/INFO]: [Vault] Checking for Updates ... 
+[20:33:29] [Craft Scheduler Thread - 6/INFO]: [Vault] No new version available
+[20:33:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (35bc27bf421604a08ea637646123433ee9794e69)
+[20:33:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Language initialized as English
+[20:33:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[20:33:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a         Need a server host? Try PebbleHost! Plans starting at $1/GB!
+[20:33:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
+[20:33:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[20:33:33] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[20:33:33] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[20:33:34] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:minecraft(593863416481972382)
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcements(601880446740987935)
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:planned-features(601878832789717064)
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(593863416549081233)
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server(593874752167215114)
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rcon(593875140287397953)
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:verify(601881983785762827)
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 593875140287397953
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[20:33:34] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
+[20:33:35] [User Authenticator #1/INFO]: UUID of player ObamaGaming44 is 048d2f37-55a9-4de8-96db-75febd2e8696
+[20:33:37] [Server thread/INFO]: [DiscordSRV] Player ObamaGaming44 joined with silent joining permission, not sending a join message
+[20:33:37] [Server thread/INFO]: ObamaGaming44[/127.0.0.1:33479] logged in with entity id 134 at ([world]78.5740552921049, 78.0, 95.53924020179544)
+[20:33:38] [Craft Scheduler Thread - 2/WARN]: [Essentials] Plugin Essentials v2.16.1.0 generated an exception while executing task 22
+java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.delayedJoin(EssentialsPlayerListener.java:224) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener$1.run(EssentialsPlayerListener.java:201) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[20:33:53] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | admin] ??    ?w? > Whats the server ip?
+[20:34:04] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to Essentials v2.16.1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:508) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.chat(PlayerConnection.java:1592) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1530) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat$1.run(PacketPlayInChat.java:41) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.onPlayerChat(EssentialsPlayerListener.java:104) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	... 11 more
+[20:34:04] [Async Chat Thread - #0/INFO]:  ObamaGaming44> check general
+[20:34:06] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to Essentials v2.16.1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:508) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.chat(PlayerConnection.java:1592) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1530) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat$1.run(PacketPlayInChat.java:41) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.onPlayerChat(EssentialsPlayerListener.java:104) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	... 11 more
+[20:34:06] [Async Chat Thread - #0/INFO]:  ObamaGaming44> its the topic
+[20:35:50] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | server manager] MIRT > its 24.140.186.52:25565
+[20:36:18] [Server thread/INFO]: ObamaGaming44 issued server command: /time set night
+[20:36:38] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | admin] ??    ?w? > cant connect to the server
+[20:36:41] [Async Chat Thread - #1/INFO]:  [%OWNER%]~Felix> ?!
+[20:36:49] [Async Chat Thread - #1/INFO]:  [%OWNER%]~Felix> 1 sec let me check
+[20:40:09] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[20:40:49] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[20:42:26] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | server manager] MIRT > try now @??    ?w?
+[20:43:16] [User Authenticator #2/INFO]: UUID of player Ludvig41 is d3611fd2-88e3-40f3-a94e-ff692d08087b
+[20:43:16] [Server thread/INFO]: Ludvig41[/24.140.186.52:54402] logged in with entity id 726 at ([world]78.5740552921049, 78.0, 95.53924020179544)
+[20:43:16] [pool-11-thread-1/INFO]: Creating empty config: C:\Users\madde\Desktop\mcss\servers\server\plugins\Essentials\userdata\d3611fd2-88e3-40f3-a94e-ff692d08087b.yml
+[20:43:29] [Async Chat Thread - #2/INFO]:  [#Co-Owner#]Ludvig41> yello
+[20:43:30] [Server thread/INFO]: ObamaGaming44 issued server command: /tp Ludvig41
+[20:43:34] [Server thread/INFO]: ObamaGaming44 issued server command: /back
+[20:43:34] [Server thread/WARN]: ObamaGaming44 moved too quickly! -74.7626228777599,34.0,-104.35707029630774
+[20:43:37] [Server thread/INFO]: ObamaGaming44 issued server command: /tphere Ludvig41
+[20:43:37] [Server thread/WARN]: Ludvig41 moved too quickly! -74.58794517279006,34.0,-106.76781598290093
+[20:43:58] [Server thread/INFO]: Ludvig41 has made the advancement [Cover Me With Diamonds]
+[20:44:12] [Server thread/INFO]: ObamaGaming44 issued server command: /time set night
+[20:44:39] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | player] twinkle > a
+[20:44:41] [Async Chat Thread - #3/INFO]:  [%OWNER%]~Felix> a
+[20:44:45] [Async Chat Thread - #3/INFO]:  [#Co-Owner#]Ludvig41> tweeenk
+[20:44:49] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | player] twinkle > iwannajoinbutmysistersonthecomputeraaaaaaaaa
+[20:45:07] [Async Chat Thread - #3/INFO]:  [%OWNER%]~Felix> lmao np is over at my place
+[20:45:31] [Server thread/INFO]: Ludvig41 has made the advancement [We Need to Go Deeper]
+[20:45:48] [Server thread/WARN]: Boat moved wrongly!
+[20:45:48] [Server thread/WARN]: Boat moved wrongly!
+[20:46:02] [Server thread/WARN]: Ludvig41 moved too quickly! -10.255187001773976,0.0,0.5287364381357673
+[20:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5428ms or 108 ticks behind
+[20:46:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7671ms or 153 ticks behind
+[20:47:17] [Server thread/INFO]: Ludvig41 fell from a high place
+[20:48:02] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[20:48:12] [Server thread/INFO]: ObamaGaming44 issued server command: /tphere Ludvig41
+[20:48:19] [Server thread/INFO]: Ludvig41 issued server command: /summon killer bunny
+[20:48:42] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[20:49:53] [Server thread/INFO]: Ludvig41 fell from a high place
+[20:50:03] [Server thread/INFO]: ObamaGaming44 issued server command: /tphere Ludvig41
+[20:51:07] [Server thread/INFO]: Ludvig41 issued server command: /gamemode creative
+[20:55:16] [Server thread/INFO]: ObamaGaming44 has made the advancement [Isn't It Iron Pick]
+[20:55:42] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[20:56:22] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[20:59:51] [User Authenticator #3/INFO]: UUID of player GurtGurtX3 is c078b7e1-d3d0-4027-99ae-d3cb9d1a23c2
+[20:59:52] [Server thread/INFO]: GurtGurtX3[/199.116.102.9:20831] logged in with entity id 2627 at ([world]78.5740552921049, 78.0, 95.53924020179544)
+[20:59:52] [Server thread/INFO]: [Essentials] Set socialspy to false for GurtGurtX3 because they had it enabled without permission.
+[20:59:58] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> hey preston
+[21:00:03] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> yo
+[21:00:16] [Server thread/INFO]: ObamaGaming44 issued server command: /pex user ludvig group add admin
+[21:00:22] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> felix
+[21:00:24] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> yeah?
+[21:00:53] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> im not lagging
+[21:00:58] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> nice
+[21:01:07] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> my frames are actually alright and im not using optifine
+[21:01:12] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> niceeee
+[21:01:39] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> oh yeah
+[21:01:42] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> im trying to play with a touch pad
+[21:01:44] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> Ludvig41 is my friend here
+[21:01:52] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> he's actually staying the night
+[21:01:56] [Async Chat Thread - #4/INFO]:  [Admin]Ludvig41> nintendopandaboi
+[21:02:10] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> oh?
+[21:02:28] [Server thread/INFO]: ObamaGaming44 issued server command: /pex user Ludvig41 group add mod
+[21:02:30] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> this is super hard
+[21:02:40] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> like me :]
+[21:02:49] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> hell yeah
+[21:03:08] [Server thread/INFO]: GurtGurtX3 issued server command: /gamemode 1
+[21:03:14] [Server thread/INFO]: GurtGurtX3 issued server command: /fly
+[21:03:21] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> i cant change to creative?
+[21:03:22] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[21:03:24] [Async Chat Thread - #4/INFO]:  [Admin]~GurtGurt> fair enough
+[21:03:25] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> ?
+[21:03:30] [Server thread/INFO]: ObamaGaming44 issued server command: /op GurtGurtX3
+[21:03:31] [Async Chat Thread - #4/INFO]:  [%OWNER%]~Felix> fixed
+[21:03:31] [Server thread/INFO]: [ObamaGaming44: Made GurtGurtX3 a server operator]
+[21:03:46] [Server thread/WARN]: ObamaGaming44 moved too quickly! -13.552785354322427,-6.552906919750981,-8.21706087253324
+[21:04:02] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[21:04:42] [Server thread/INFO]: ObamaGaming44 issued server command: /tp GurtGurtX3
+[21:04:42] [Server thread/WARN]: ObamaGaming44 moved too quickly! 187.9117073446364,7.0,19.51067823005756
+[21:04:50] [Server thread/INFO]: ObamaGaming44 issued server command: /home
+[21:04:53] [Server thread/WARN]: Ludvig41 moved too quickly! -9.057361992912718,4.084373005300087,4.673164128244679
+[21:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5322ms or 106 ticks behind
+[21:08:15] [Server thread/INFO]: ObamaGaming44 issued server command: /tp ludvig
+[21:08:34] [Async Chat Thread - #5/INFO]:  [Admin]~GurtGurt> danke
+[21:08:38] [Async Chat Thread - #5/INFO]:  [%OWNER%]~Felix> yes
+[21:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7842ms or 156 ticks behind
+[21:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5508ms or 110 ticks behind
+[21:10:22] [Server thread/INFO]: Ludvig41 has made the advancement [Best Friends Forever]
+[21:11:21] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[21:12:01] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[21:12:36] [Server thread/INFO]: ObamaGaming44 issued server command: //hcyl stone 5
+[21:19:01] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[21:19:41] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[21:20:12] [Server thread/INFO]: Ludvig41 issued server command: /kill
+[21:20:23] [Server thread/INFO]: Ludvig41 issued server command: /suicide
+[21:20:23] [Server thread/INFO]: Ludvig41 died
+[21:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5129ms or 102 ticks behind
+[21:23:38] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | player] twinkle > a
+[21:24:06] [Async Chat Thread - #6/ERROR]: Could not pass event AsyncPlayerChatEvent to Essentials v2.16.1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:508) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.chat(PlayerConnection.java:1592) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1530) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat$1.run(PacketPlayInChat.java:41) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.onPlayerChat(EssentialsPlayerListener.java:104) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	... 11 more
+[21:24:06] [Async Chat Thread - #6/INFO]:  [%OWNER%]~Felix> a
+[21:24:11] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | player] twinkle > i'm joining
+[21:24:15] [Async Chat Thread - #6/ERROR]: Could not pass event AsyncPlayerChatEvent to Essentials v2.16.1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:508) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.chat(PlayerConnection.java:1592) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1530) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat$1.run(PacketPlayInChat.java:41) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.onPlayerChat(EssentialsPlayerListener.java:104) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	... 11 more
+[21:24:15] [Async Chat Thread - #6/INFO]:  [%OWNER%]~Felix> alright
+[21:25:46] [User Authenticator #4/INFO]: UUID of player lol54080 is 1f8ad9ca-56dd-4b7a-bd52-d181fdd81970
+[21:25:48] [Server thread/INFO]: lol54080[/172.4.62.115:2466] logged in with entity id 6894 at ([world]78.5740552921049, 78.0, 95.53924020179544)
+[21:25:52] [Server thread/INFO]: Ludvig41 has reached the goal [Sky's the Limit]
+[21:25:53] [Async Chat Thread - #7/INFO]:  [VIP]~twinkle> yey
+[21:26:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5129ms or 102 ticks behind
+[21:26:53] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[21:26:56] [Server thread/INFO]: Ludvig41 issued server command: /setweather rain
+[21:27:09] [Server thread/INFO]: Ludvig41 issued server command: /weather sun
+[21:27:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[21:27:19] [Async Chat Thread - #8/INFO]:  [VIP]~twinkle> y is it lgging
+[21:27:31] [Server thread/INFO]: lol54080 has made the advancement [Monster Hunter]
+[21:27:36] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[21:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5184ms or 103 ticks behind
+[21:28:00] [Async Chat Thread - #8/ERROR]: Could not pass event AsyncPlayerChatEvent to Essentials v2.16.1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:508) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.chat(PlayerConnection.java:1592) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1530) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat$1.run(PacketPlayInChat.java:41) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.onPlayerChat(EssentialsPlayerListener.java:104) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	... 11 more
+[21:28:00] [Async Chat Thread - #8/INFO]:  [Admin]~GurtGurt> oof
+[21:30:07] [Server thread/INFO]: lol54080 has made the advancement [Stone Age]
+[21:30:34] [Server thread/INFO]: lol54080 has made the advancement [Getting an Upgrade]
+[21:32:12] [Server thread/INFO]: Ludvig41 issued server command: /give block
+[21:33:22] [Server thread/INFO]: Ludvig41 issued server command: /give block structure_block
+[21:33:52] [Server thread/INFO]: Ludvig41 issued server command: /give block structureblock
+[21:34:38] [Server thread/INFO]: Ludvig41 issued server command: /give Ludvig41 structureblock
+[21:34:44] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[21:35:21] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[21:36:15] [Async Chat Thread - #9/ERROR]: Could not pass event AsyncPlayerChatEvent to Essentials v2.16.1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:508) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.chat(PlayerConnection.java:1592) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1530) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat$1.run(PacketPlayInChat.java:41) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.onPlayerChat(EssentialsPlayerListener.java:104) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	... 11 more
+[21:36:15] [Async Chat Thread - #9/INFO]:  [%OWNER%]~Felix> peepee
+[21:36:19] [Async Chat Thread - #9/ERROR]: Could not pass event AsyncPlayerChatEvent to Essentials v2.16.1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:508) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.chat(PlayerConnection.java:1592) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1530) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat$1.run(PacketPlayInChat.java:41) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.onPlayerChat(EssentialsPlayerListener.java:104) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	... 11 more
+[21:36:19] [Async Chat Thread - #9/INFO]:  [%OWNER%]~Felix> is it lagging?
+[21:36:21] [Async Chat Thread - #9/INFO]:  [VIP]~twinkle> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[21:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5195ms or 103 ticks behind
+[21:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5351ms or 107 ticks behind
+[21:38:08] [Async Chat Thread - #10/INFO]:  [VIP]~twinkle> it's kind of lagging
+[21:38:14] [Async Chat Thread - #10/INFO]:  [%OWNER%]~Felix> odd
+[21:38:49] [Async Chat Thread - #10/INFO]:  [%OWNER%]~Felix> hmmm
+[21:39:08] [Server thread/INFO]: ObamaGaming44 issued server command: /home
+[21:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5157ms or 103 ticks behind
+[21:39:12] [Server thread/WARN]: ObamaGaming44 moved too quickly! 9.904639812308474,0.0,-2.4116503041105197
+[21:39:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5137ms or 102 ticks behind
+[21:40:20] [Async Chat Thread - #11/ERROR]: Could not pass event AsyncPlayerChatEvent to Essentials v2.16.1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:508) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.chat(PlayerConnection.java:1592) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1530) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat$1.run(PacketPlayInChat.java:41) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_201]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.IllegalStateException: AfkStatusChangeEvent cannot be triggered asynchronously from another thread.
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:511) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at com.earth2me.essentials.User.setAfk(User.java:463) ~[?:?]
+	at com.earth2me.essentials.User.updateActivity(User.java:557) ~[?:?]
+	at com.earth2me.essentials.User.updateActivityOnInteract(User.java:577) ~[?:?]
+	at com.earth2me.essentials.EssentialsPlayerListener.onPlayerChat(EssentialsPlayerListener.java:104) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	... 11 more
+[21:40:20] [Async Chat Thread - #11/INFO]:  [Admin]~GurtGurt> oofoflo
+[21:40:23] [Server thread/INFO]: Ludvig41 has made the advancement [Stone Age]
+[21:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5088ms or 101 ticks behind
+[21:40:33] [Async Chat Thread - #11/INFO]:  [Admin]~GurtGurt> how is my game not dying
+[21:41:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 50715ms or 1014 ticks behind
+[21:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 65513ms or 1310 ticks behind
+[21:44:52] [Async Chat Thread - #12/INFO]:  [Admin]~GurtGurt> hm
+[21:44:57] [Server thread/INFO]: GurtGurtX3 issued server command: /v
+[21:45:12] [Server thread/INFO]: GurtGurtX3 issued server command: /tp lol54080
+[21:45:25] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at net.minecraft.server.v1_14_R1.PacketPlayOutLightUpdate.<init>(SourceFile:42) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerChunkMap.a(PlayerChunkMap.java:1018) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerChunkMap.sendChunk(PlayerChunkMap.java:713) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerChunkMap.movePlayer(PlayerChunkMap.java:889) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.ChunkProviderServer.movePlayer(ChunkProviderServer.java:439) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:471) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInTeleportAccept.a(SourceFile:31) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PacketPlayInTeleportAccept.a(SourceFile:8) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:13) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils$$Lambda$3247/314687136.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:135) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:114) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.aW(MinecraftServer.java:898) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:891) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeAll(SourceFile:99) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:874) ~[spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:808) [spigot.jar:git-Spigot-5e4e7f3-2349feb]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[21:45:29] [Server thread/ERROR]: This crash report has been saved to: C:\Users\madde\Desktop\mcss\servers\server\.\crash-reports\crash-2019-07-22_21.45.29-server.txt
+[21:45:29] [Server thread/INFO]: Stopping server
+[21:45:29] [Server thread/INFO]: [Factions] Disabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RELEASE
+[21:45:29] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RELEASE] Disabled
+[21:45:29] [Server thread/INFO]: [TNTRun] Disabling TNTRun v1.1
+[21:45:30] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.16.1.0
+[21:45:30] [Server thread/INFO]: [Essentials] Disabling Essentials v2.16.1.0
+[21:45:30] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[21:45:31] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.17.1
+[21:45:31] [pool-14-thread-1/INFO]: [DiscordSRV] Skipped saving linked accounts because there were none
+[21:45:31] [pool-14-thread-1/INFO]: [DiscordSRV] Saved metrics in 6ms
+[21:45:33] [pool-14-thread-1/INFO]: [DiscordSRV] Shutdown completed in 1928ms
+[21:45:33] [Server thread/INFO]: [FoundBoxx] Disabling FoundBoxx v1.9.2
+[21:45:33] [Server thread/INFO]: [FoundBoxx v1.9.2] Disabled.
+[21:45:33] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[21:45:33] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[21:45:33] [Server thread/INFO]: [GSit] Disabling GSit v[2.6.4.0]
+[21:45:33] [Server thread/INFO]: [GSit] The Plugin was successfully disabled.
+[21:45:33] [Server thread/INFO]: [CrackShot] Disabling CrackShot v0.98.9
+[21:45:33] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.5
+[21:45:33] [Server thread/INFO]: [ArmorStandEditor] Disabling ArmorStandEditor v1.13-21
+[21:45:33] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[21:45:33] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[21:45:33] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.0.6
+[21:45:33] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[21:45:33] [Server thread/INFO]: [HubThat] Disabling HubThat v8.0
+[21:45:33] [Server thread/INFO]: [PhantomSpawnControl] Disabling PhantomSpawnControl v2.1.0
+[21:45:33] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0;214af8a
+[21:45:33] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit

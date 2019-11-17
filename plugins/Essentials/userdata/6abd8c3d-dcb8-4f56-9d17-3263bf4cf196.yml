@@ -1,0 +1,36 @@
+lastAccountName: daxelsson
+timestamps:
+  login: 1567360307262
+  lastteleport: 1567362149228
+  kits:
+    grimreaper: 1567360474045
+    beserker: 1567360477645
+    pyro: 1567360475094
+    archer: 1567360489294
+    gladiator: 1567360488143
+    wizard: 1567360460295
+    tank: 1567360476696
+  logout: 1567362155246
+ipAddress: 24.80.130.231
+lastlocation:
+  world: minigames
+  x: 327.1020492466038
+  y: 92.0
+  z: 169.48877954814273
+  yaw: 52.942535
+  pitch: 64.83095
+logoutlocation:
+  world: FactionsWorld
+  x: 172.8988893002013
+  y: 59.40637416079706
+  z: -42.066557667826
+  yaw: 145.50719
+  pitch: 8.099705
+homes:
+  home:
+    world: FactionsWorld
+    x: 188.12167470670954
+    y: 64.0
+    z: -34.77521381914365
+    yaw: 86.70765
+    pitch: 9.4497

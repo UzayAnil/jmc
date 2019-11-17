@@ -1,0 +1,97 @@
+lastAccountName: __Futaba__
+timestamps:
+  login: 1570490700411
+  lastteleport: 1570490780835
+  logout: 1570494626467
+  kits:
+    beserker: 1565045028904
+    pyro: 1565044903354
+    color: 1565314026744
+    archer: 1565045140655
+    wizard: 1565044698956
+    tank: 1565045280805
+    dtools: 1567555963217
+    vip: 1566109113017
+ipAddress: 199.116.102.9
+nickname: §d§LFutaba
+lastlocation:
+  world: world
+  x: 82.0917691018809
+  y: 78.0
+  z: 104.19297081823186
+  yaw: -10.42943
+  pitch: 21.96833
+homes:
+  nigg:
+    world: world
+    x: -340.3299473341655
+    y: 77.0
+    z: 300.92595005128925
+    yaw: 73.76662
+    pitch: 15.971024
+  home:
+    world: HUB
+    x: 833.2292129604544
+    y: 47.0
+    z: -633.9772153721245
+    yaw: -231.52347
+    pitch: 43.499798
+  bruh:
+    world: world
+    x: 370.18117811760646
+    y: 45.0
+    z: 120.69995740469616
+    yaw: 48.066044
+    pitch: 21.749983
+  nig:
+    world: world
+    x: -292.6027751728794
+    y: 24.0
+    z: -163.28081369312187
+    yaw: -46.408325
+    pitch: 44.731876
+  main:
+    world: FactionsWorld
+    x: 274.9885070093304
+    y: 93.0
+    z: -1528.4393124922958
+    yaw: -227.57117
+    pitch: 48.282234
+  mobarena:
+    world: minigames
+    x: 31.608502039359948
+    y: 65.0
+    z: -47.64520018461497
+    yaw: -82.57672
+    pitch: 80.68004
+  survival:
+    world: world
+    x: -462.30000001192093
+    y: 62.0
+    z: 383.30000001192093
+    yaw: 49.80124
+    pitch: 58.896343
+  teleporter:
+    world: world
+    x: 1246.300000011921
+    y: 110.0
+    z: 339.67640489273344
+    yaw: -199.6753
+    pitch: 3.1989741
+socialspy: true
+afk: false
+logoutlocation:
+  world: world
+  x: 1226.083670700094
+  y: 59.32395452375579
+  z: 378.1787837088415
+  yaw: -349.82007
+  pitch: 90.0
+godmode: true
+money: '30.0'
+powertools:
+  grass:
+  - smite
+  tnt:
+  - summon tnt
+powertoolsenabled: true

@@ -1,0 +1,31 @@
+lastAccountName: StrongOne
+timestamps:
+  login: 1566103435206
+  logout: 1566104143002
+  lastteleport: 1566103015628
+  kits:
+    grimreaper: 1565307787671
+    beserker: 1565307770940
+    pyro: 1565307765189
+    archer: 1565307745191
+    gladiator: 1565307698690
+    wizard: 1565307748840
+    tank: 1565307775990
+  mute: 0
+ipAddress: 138.229.167.202
+logoutlocation:
+  world: FactionsWorld
+  x: 358.71167452529954
+  y: 67.0
+  z: 19.8477092719517
+  yaw: -5.702881
+  pitch: 63.45028
+lastlocation:
+  world: HUB
+  x: 816.2763530142709
+  y: 46.9375
+  z: -635.4465051949978
+  yaw: -333.84515
+  pitch: 6.4439406
+afk: false
+muted: false

@@ -1,0 +1,81 @@
+portals:
+  survival:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: ObamaGaming44
+    location: 46.0,105.0,-89.0:50.0,109.0,-89.0
+    world: HUB
+    destination: world
+  survivaltohub:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: ObamaGaming44
+    location: 73.0,77.0,93.0:73.0,81.0,97.0
+    world: world
+    destination: HUB
+  newhubsurvival:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: ObamaGaming44
+    location: 824.0,47.0,-650.0:830.0,53.0,-649.0
+    world: HUB
+    destination: world
+  freebuildfromhub:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: ObamaGaming44
+    location: 811.0,47.0,-639.0:813.0,53.0,-633.0
+    world: HUB
+    destination: flatcreative
+  creativefromhub:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: ObamaGaming44
+    location: 824.0,54.0,-604.0:830.0,59.0,-603.0
+    world: HUB
+    destination: Creative
+  factions:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: ObamaGaming44
+    location: 840.0,47.0,-639.0:841.0,53.0,-633.0
+    world: HUB
+    destination: FactionsWorld
+  minigame:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: ObamaGaming44
+    location: 812.0,47.0,-639.0:813.0,53.0,-633.0
+    world: HUB
+    destination: minigames
+  survivalworl:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: FelixIsNotSad
+    location: 824.0,47.0,-649.0:830.0,53.0,-649.0
+    world: HUB
+    destination: world

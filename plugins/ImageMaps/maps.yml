@@ -1,0 +1,1320 @@
+'0':
+  image: yes.png
+  x: 0
+  y: 0
+  fastsend: false
+  scale: 1.0
+'1':
+  image: yes.png
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 4.517647058823529
+'2':
+  image: yes.png
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 4.517647058823529
+'3':
+  image: yes.png
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 4.517647058823529
+'4':
+  image: yes.png
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 4.517647058823529
+'5':
+  image: yes.png
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 4.517647058823529
+'6':
+  image: yes.png
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 4.517647058823529
+'7':
+  image: yes.png
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 4.517647058823529
+'8':
+  image: yes.png
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 4.517647058823529
+'9':
+  image: yes.png
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 4.517647058823529
+'10':
+  image: thicc.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 4.266666666666667
+'11':
+  image: thicc.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 4.266666666666667
+'12':
+  image: thicc.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 4.266666666666667
+'13':
+  image: thicc.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 4.266666666666667
+'14':
+  image: thicc.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 4.266666666666667
+'15':
+  image: thicc.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 4.266666666666667
+'16':
+  image: thicc.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 4.266666666666667
+'17':
+  image: thicc.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 4.266666666666667
+'18':
+  image: thicc.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 4.266666666666667
+'19':
+  image: thicc.jpeg
+  x: 384
+  y: 0
+  fastsend: true
+  scale: 4.266666666666667
+'20':
+  image: thicc.jpeg
+  x: 384
+  y: 128
+  fastsend: true
+  scale: 4.266666666666667
+'21':
+  image: thicc.jpeg
+  x: 384
+  y: 256
+  fastsend: true
+  scale: 4.266666666666667
+'22':
+  image: cat.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 6.023529411764706
+'23':
+  image: cat.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 6.023529411764706
+'24':
+  image: cat.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 6.023529411764706
+'25':
+  image: cat.jpeg
+  x: 0
+  y: 384
+  fastsend: true
+  scale: 6.023529411764706
+'26':
+  image: cat.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 6.023529411764706
+'27':
+  image: cat.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 6.023529411764706
+'28':
+  image: cat.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 6.023529411764706
+'29':
+  image: cat.jpeg
+  x: 128
+  y: 384
+  fastsend: true
+  scale: 6.023529411764706
+'30':
+  image: cat.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 6.023529411764706
+'31':
+  image: cat.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 6.023529411764706
+'32':
+  image: cat.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 6.023529411764706
+'33':
+  image: cat.jpeg
+  x: 256
+  y: 384
+  fastsend: true
+  scale: 6.023529411764706
+'35':
+  image: cat.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 4.517647058823529
+'36':
+  image: cat.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 4.517647058823529
+'37':
+  image: cat.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 4.517647058823529
+'38':
+  image: cat.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 4.517647058823529
+'39':
+  image: cat.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 4.517647058823529
+'40':
+  image: cat.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 4.517647058823529
+'41':
+  image: cat.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 4.517647058823529
+'42':
+  image: cat.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 4.517647058823529
+'43':
+  image: cat.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 4.517647058823529
+'44':
+  image: cat.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 6.0
+'45':
+  image: cat.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 6.0
+'46':
+  image: cat.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 6.0
+'47':
+  image: cat.jpeg
+  x: 0
+  y: 384
+  fastsend: true
+  scale: 6.0
+'48':
+  image: cat.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 6.0
+'49':
+  image: cat.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 6.0
+'50':
+  image: cat.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 6.0
+'51':
+  image: cat.jpeg
+  x: 128
+  y: 384
+  fastsend: true
+  scale: 6.0
+'52':
+  image: cat.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 6.0
+'53':
+  image: cat.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 6.0
+'54':
+  image: cat.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 6.0
+'55':
+  image: cat.jpeg
+  x: 256
+  y: 384
+  fastsend: true
+  scale: 6.0
+'56':
+  image: bettercat.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 10.666666666666666
+'57':
+  image: bettercat.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 10.666666666666666
+'58':
+  image: bettercat.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 10.666666666666666
+'59':
+  image: bettercat.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 10.666666666666666
+'60':
+  image: bettercat.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 10.666666666666666
+'61':
+  image: bettercat.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 10.666666666666666
+'62':
+  image: bettercat.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 10.666666666666666
+'63':
+  image: bettercat.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 10.666666666666666
+'64':
+  image: bettercat.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 10.666666666666666
+'74':
+  image: obama.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 10.105263157894736
+'75':
+  image: obama.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 10.105263157894736
+'76':
+  image: obama.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 10.105263157894736
+'77':
+  image: obama.jpeg
+  x: 0
+  y: 384
+  fastsend: true
+  scale: 10.105263157894736
+'78':
+  image: obama.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 10.105263157894736
+'79':
+  image: obama.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 10.105263157894736
+'80':
+  image: obama.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 10.105263157894736
+'81':
+  image: obama.jpeg
+  x: 128
+  y: 384
+  fastsend: true
+  scale: 10.105263157894736
+'82':
+  image: obama.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 10.105263157894736
+'83':
+  image: obama.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 10.105263157894736
+'84':
+  image: obama.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 10.105263157894736
+'85':
+  image: obama.jpeg
+  x: 256
+  y: 384
+  fastsend: true
+  scale: 10.105263157894736
+'86':
+  image: thicc.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 3.2
+'87':
+  image: thicc.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 3.2
+'88':
+  image: thicc.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 3.2
+'89':
+  image: thicc.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 3.2
+'90':
+  image: thicc.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 3.2
+'91':
+  image: thicc.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 3.2
+'92':
+  image: thicc.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 3.2
+'93':
+  image: thicc.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 3.2
+'94':
+  image: thicc.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 3.2
+'95':
+  image: yes.png
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 3.011764705882353
+'96':
+  image: yes.png
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 3.011764705882353
+'97':
+  image: yes.png
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 3.011764705882353
+'98':
+  image: yes.png
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 3.011764705882353
+'99':
+  image: cat.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 8.258064516129032
+'100':
+  image: cat.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 8.258064516129032
+'101':
+  image: cat.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 8.258064516129032
+'102':
+  image: cat.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 8.258064516129032
+'103':
+  image: cat.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 8.258064516129032
+'104':
+  image: cat.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 8.258064516129032
+'109':
+  image: obama.jpeg
+  x: 0
+  y: 0
+  fastsend: false
+  scale: 1.0
+'110':
+  image: obama.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 8.0
+'111':
+  image: obama.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 8.0
+'112':
+  image: obama.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 8.0
+'113':
+  image: obama.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 8.0
+'114':
+  image: obama.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 8.0
+'115':
+  image: obama.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 8.0
+'116':
+  image: obama.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 8.0
+'117':
+  image: obama.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 8.0
+'118':
+  image: obama.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 8.0
+'119':
+  image: bitchniggas
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 0.5126835781041389
+'120':
+  image: bitchniggas
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 0.5126835781041389
+'121':
+  image: bitchniggas
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 0.5126835781041389
+'122':
+  image: bitchniggas
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 0.5126835781041389
+'123':
+  image: bitchniggas
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 0.5126835781041389
+'124':
+  image: bitchniggas
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 0.5126835781041389
+'125':
+  image: bitchniggas
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 0.5126835781041389
+'126':
+  image: bitchniggas
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 0.5126835781041389
+'127':
+  image: bitchniggas
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 0.5126835781041389
+'128':
+  image: cat.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 10.666666666666666
+'129':
+  image: cat.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 10.666666666666666
+'130':
+  image: cat.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 10.666666666666666
+'131':
+  image: cat.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 10.666666666666666
+'132':
+  image: cat.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 10.666666666666666
+'133':
+  image: cat.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 10.666666666666666
+'134':
+  image: cat.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 10.666666666666666
+'135':
+  image: cat.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 10.666666666666666
+'136':
+  image: cat.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 10.666666666666666
+'137':
+  image: dick.png
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 1.0
+'138':
+  image: dick.png
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 1.0
+'139':
+  image: dick.png
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 1.0
+'140':
+  image: dick.png
+  x: 0
+  y: 384
+  fastsend: true
+  scale: 1.0
+'141':
+  image: dick.png
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 1.0
+'142':
+  image: dick.png
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 1.0
+'143':
+  image: dick.png
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 1.0
+'144':
+  image: dick.png
+  x: 128
+  y: 384
+  fastsend: true
+  scale: 1.0
+'145':
+  image: dick.png
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 1.0
+'146':
+  image: dick.png
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 1.0
+'147':
+  image: dick.png
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 1.0
+'148':
+  image: dick.png
+  x: 256
+  y: 384
+  fastsend: true
+  scale: 1.0
+'149':
+  image: dick.png
+  x: 384
+  y: 0
+  fastsend: true
+  scale: 1.0
+'150':
+  image: dick.png
+  x: 384
+  y: 128
+  fastsend: true
+  scale: 1.0
+'151':
+  image: dick.png
+  x: 384
+  y: 256
+  fastsend: true
+  scale: 1.0
+'152':
+  image: dick.png
+  x: 384
+  y: 384
+  fastsend: true
+  scale: 1.0
+'153':
+  image: carson.jpeg
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 1.3333333333333333
+'154':
+  image: carson.jpeg
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 1.3333333333333333
+'155':
+  image: carson.jpeg
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 1.3333333333333333
+'156':
+  image: carson.jpeg
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 1.3333333333333333
+'157':
+  image: carson.jpeg
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 1.3333333333333333
+'158':
+  image: carson.jpeg
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 1.3333333333333333
+'159':
+  image: carson.jpeg
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 1.3333333333333333
+'160':
+  image: carson.jpeg
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 1.3333333333333333
+'161':
+  image: carson.jpeg
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 1.3333333333333333
+'162':
+  image: bitchniggas
+  x: 0
+  y: 0
+  fastsend: true
+  scale: 1.0
+'163':
+  image: bitchniggas
+  x: 0
+  y: 128
+  fastsend: true
+  scale: 1.0
+'164':
+  image: bitchniggas
+  x: 0
+  y: 256
+  fastsend: true
+  scale: 1.0
+'165':
+  image: bitchniggas
+  x: 0
+  y: 384
+  fastsend: true
+  scale: 1.0
+'166':
+  image: bitchniggas
+  x: 0
+  y: 512
+  fastsend: true
+  scale: 1.0
+'167':
+  image: bitchniggas
+  x: 0
+  y: 640
+  fastsend: true
+  scale: 1.0
+'168':
+  image: bitchniggas
+  x: 128
+  y: 0
+  fastsend: true
+  scale: 1.0
+'169':
+  image: bitchniggas
+  x: 128
+  y: 128
+  fastsend: true
+  scale: 1.0
+'170':
+  image: bitchniggas
+  x: 128
+  y: 256
+  fastsend: true
+  scale: 1.0
+'171':
+  image: bitchniggas
+  x: 128
+  y: 384
+  fastsend: true
+  scale: 1.0
+'172':
+  image: bitchniggas
+  x: 128
+  y: 512
+  fastsend: true
+  scale: 1.0
+'173':
+  image: bitchniggas
+  x: 128
+  y: 640
+  fastsend: true
+  scale: 1.0
+'174':
+  image: bitchniggas
+  x: 256
+  y: 0
+  fastsend: true
+  scale: 1.0
+'175':
+  image: bitchniggas
+  x: 256
+  y: 128
+  fastsend: true
+  scale: 1.0
+'176':
+  image: bitchniggas
+  x: 256
+  y: 256
+  fastsend: true
+  scale: 1.0
+'177':
+  image: bitchniggas
+  x: 256
+  y: 384
+  fastsend: true
+  scale: 1.0
+'178':
+  image: bitchniggas
+  x: 256
+  y: 512
+  fastsend: true
+  scale: 1.0
+'179':
+  image: bitchniggas
+  x: 256
+  y: 640
+  fastsend: true
+  scale: 1.0
+'180':
+  image: bitchniggas
+  x: 384
+  y: 0
+  fastsend: true
+  scale: 1.0
+'181':
+  image: bitchniggas
+  x: 384
+  y: 128
+  fastsend: true
+  scale: 1.0
+'182':
+  image: bitchniggas
+  x: 384
+  y: 256
+  fastsend: true
+  scale: 1.0
+'183':
+  image: bitchniggas
+  x: 384
+  y: 384
+  fastsend: true
+  scale: 1.0
+'184':
+  image: bitchniggas
+  x: 384
+  y: 512
+  fastsend: true
+  scale: 1.0
+'185':
+  image: bitchniggas
+  x: 384
+  y: 640
+  fastsend: true
+  scale: 1.0
+'186':
+  image: bitchniggas
+  x: 512
+  y: 0
+  fastsend: true
+  scale: 1.0
+'187':
+  image: bitchniggas
+  x: 512
+  y: 128
+  fastsend: true
+  scale: 1.0
+'188':
+  image: bitchniggas
+  x: 512
+  y: 256
+  fastsend: true
+  scale: 1.0
+'189':
+  image: bitchniggas
+  x: 512
+  y: 384
+  fastsend: true
+  scale: 1.0
+'190':
+  image: bitchniggas
+  x: 512
+  y: 512
+  fastsend: true
+  scale: 1.0
+'191':
+  image: bitchniggas
+  x: 512
+  y: 640
+  fastsend: true
+  scale: 1.0
+'192':
+  image: bitchniggas
+  x: 640
+  y: 0
+  fastsend: true
+  scale: 1.0
+'193':
+  image: bitchniggas
+  x: 640
+  y: 128
+  fastsend: true
+  scale: 1.0
+'194':
+  image: bitchniggas
+  x: 640
+  y: 256
+  fastsend: true
+  scale: 1.0
+'195':
+  image: bitchniggas
+  x: 640
+  y: 384
+  fastsend: true
+  scale: 1.0
+'196':
+  image: bitchniggas
+  x: 640
+  y: 512
+  fastsend: true
+  scale: 1.0
+'197':
+  image: bitchniggas
+  x: 640
+  y: 640
+  fastsend: true
+  scale: 1.0
+'198':
+  image: bitchniggas
+  x: 0
+  y: 0
+  fastsend: false
+  scale: 1.0253671562082778
+'199':
+  image: bitchniggas
+  x: 0
+  y: 128
+  fastsend: false
+  scale: 1.0253671562082778
+'200':
+  image: bitchniggas
+  x: 0
+  y: 256
+  fastsend: false
+  scale: 1.0253671562082778
+'201':
+  image: bitchniggas
+  x: 0
+  y: 384
+  fastsend: false
+  scale: 1.0253671562082778
+'202':
+  image: bitchniggas
+  x: 0
+  y: 512
+  fastsend: false
+  scale: 1.0253671562082778
+'203':
+  image: bitchniggas
+  x: 0
+  y: 640
+  fastsend: false
+  scale: 1.0253671562082778
+'204':
+  image: bitchniggas
+  x: 128
+  y: 0
+  fastsend: false
+  scale: 1.0253671562082778
+'205':
+  image: bitchniggas
+  x: 128
+  y: 128
+  fastsend: false
+  scale: 1.0253671562082778
+'206':
+  image: bitchniggas
+  x: 128
+  y: 256
+  fastsend: false
+  scale: 1.0253671562082778
+'207':
+  image: bitchniggas
+  x: 128
+  y: 384
+  fastsend: false
+  scale: 1.0253671562082778
+'208':
+  image: bitchniggas
+  x: 128
+  y: 512
+  fastsend: false
+  scale: 1.0253671562082778
+'209':
+  image: bitchniggas
+  x: 128
+  y: 640
+  fastsend: false
+  scale: 1.0253671562082778
+'210':
+  image: bitchniggas
+  x: 256
+  y: 0
+  fastsend: false
+  scale: 1.0253671562082778
+'211':
+  image: bitchniggas
+  x: 256
+  y: 128
+  fastsend: false
+  scale: 1.0253671562082778
+'212':
+  image: bitchniggas
+  x: 256
+  y: 256
+  fastsend: false
+  scale: 1.0253671562082778
+'213':
+  image: bitchniggas
+  x: 256
+  y: 384
+  fastsend: false
+  scale: 1.0253671562082778
+'214':
+  image: bitchniggas
+  x: 256
+  y: 512
+  fastsend: false
+  scale: 1.0253671562082778
+'215':
+  image: bitchniggas
+  x: 256
+  y: 640
+  fastsend: false
+  scale: 1.0253671562082778
+'216':
+  image: bitchniggas
+  x: 384
+  y: 0
+  fastsend: false
+  scale: 1.0253671562082778
+'217':
+  image: bitchniggas
+  x: 384
+  y: 128
+  fastsend: false
+  scale: 1.0253671562082778
+'218':
+  image: bitchniggas
+  x: 384
+  y: 256
+  fastsend: false
+  scale: 1.0253671562082778
+'219':
+  image: bitchniggas
+  x: 384
+  y: 384
+  fastsend: false
+  scale: 1.0253671562082778
+'220':
+  image: bitchniggas
+  x: 384
+  y: 512
+  fastsend: false
+  scale: 1.0253671562082778
+'221':
+  image: bitchniggas
+  x: 384
+  y: 640
+  fastsend: false
+  scale: 1.0253671562082778
+'222':
+  image: bitchniggas
+  x: 512
+  y: 0
+  fastsend: false
+  scale: 1.0253671562082778
+'223':
+  image: bitchniggas
+  x: 512
+  y: 128
+  fastsend: false
+  scale: 1.0253671562082778
+'224':
+  image: bitchniggas
+  x: 512
+  y: 256
+  fastsend: false
+  scale: 1.0253671562082778
+'225':
+  image: bitchniggas
+  x: 512
+  y: 384
+  fastsend: false
+  scale: 1.0253671562082778
+'226':
+  image: bitchniggas
+  x: 512
+  y: 512
+  fastsend: false
+  scale: 1.0253671562082778
+'227':
+  image: bitchniggas
+  x: 512
+  y: 640
+  fastsend: false
+  scale: 1.0253671562082778
+'228':
+  image: bitchniggas
+  x: 640
+  y: 0
+  fastsend: false
+  scale: 1.0253671562082778
+'229':
+  image: bitchniggas
+  x: 640
+  y: 128
+  fastsend: false
+  scale: 1.0253671562082778
+'230':
+  image: bitchniggas
+  x: 640
+  y: 256
+  fastsend: false
+  scale: 1.0253671562082778
+'231':
+  image: bitchniggas
+  x: 640
+  y: 384
+  fastsend: false
+  scale: 1.0253671562082778
+'232':
+  image: bitchniggas
+  x: 640
+  y: 512
+  fastsend: false
+  scale: 1.0253671562082778
+'233':
+  image: bitchniggas
+  x: 640
+  y: 640
+  fastsend: false
+  scale: 1.0253671562082778

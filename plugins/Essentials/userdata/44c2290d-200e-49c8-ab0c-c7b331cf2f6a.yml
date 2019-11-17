@@ -1,0 +1,28 @@
+lastAccountName: drunkCat22
+timestamps:
+  login: 1567341457066
+  lastteleport: 1567023090051
+  logout: 1567341540564
+ipAddress: 217.132.102.185
+lastlocation:
+  world: world
+  x: 78.0
+  y: 78.0
+  z: 95.0
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 129.50148093665257
+    y: 69.0
+    z: 371.53137317699617
+    yaw: -80.06887
+    pitch: 22.858612
+logoutlocation:
+  world: world
+  x: 89.09340322647891
+  y: 78.0
+  z: 89.90971238799712
+  yaw: 280.65256
+  pitch: 5.4258533

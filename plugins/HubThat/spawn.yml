@@ -1,0 +1,50 @@
+spawn:
+  world:
+    world: world
+    HUB: HUB
+    factions: factions
+    minigames: minigames
+    Creative: Creative
+    litterallyhell: litterallyhell
+  x:
+    world: 78.5740552921049
+    HUB: 827.4742824034555
+    factions: 74.13004910315428
+    minigames: 316.5
+    Creative: 296.5337455735647
+    litterallyhell: -43.38446083252267
+  y:
+    world: 78.0
+    HUB: 47.0
+    factions: 71.0
+    minigames: 176.0
+    Creative: 63.0
+    litterallyhell: 64.0
+  z:
+    world: 95.53924020179544
+    HUB: -635.3128902061247
+    factions: 64.1379240147383
+    minigames: 161.5
+    Creative: -190.4398502701784
+    litterallyhell: 32.556746792913586
+  yaw:
+    world: -177.49744
+    HUB: -54.84028
+    factions: -239.6841
+    minigames: 357.5846
+    Creative: -178.49384
+    litterallyhell: 43.060104
+  pitch:
+    world: 77.12529
+    HUB: 78.841835
+    factions: 20.38496
+    minigames: 26.730755
+    Creative: 6.928213
+    litterallyhell: 20.79071
+  version:
+    world: 2.5
+    HUB: 2.5
+    factions: 2.5
+    minigames: 2.5
+    Creative: 2.5
+    litterallyhell: 2.5

@@ -1,0 +1,19 @@
+debug: false
+configversion: 3.2
+update-notice: true
+colors:
+  primary: DARK_PURPLE
+  secondary: GRAY
+  highlights: GOLD
+defaultsettings:
+  maxlength: 6000
+  itemdelay: 5
+  maxstacksize: 8
+  fireworkamount: 8
+  fireworkdelay: 2
+  startperiodically: false
+  startperiod: 144000
+  votetostart: false
+  requiredvotes: 50
+  votifier: false
+  emptychest: true

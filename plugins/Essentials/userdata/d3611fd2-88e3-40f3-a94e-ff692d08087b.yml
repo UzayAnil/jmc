@@ -1,0 +1,21 @@
+lastAccountName: Ludvig41
+timestamps:
+  login: 1564528216425
+  logout: 1564530665659
+  lastteleport: 1564529684477
+ipAddress: 24.140.75.58
+lastlocation:
+  world: factions
+  x: 90.50676897355785
+  y: 71.24918707874468
+  z: 95.63982147090047
+  yaw: -124.63937
+  pitch: 1.6663569
+logoutlocation:
+  world: factions
+  x: 90.50676897355785
+  y: 71.24918707874468
+  z: 95.63982147090047
+  yaw: -124.63937
+  pitch: 1.6663569
+afk: false

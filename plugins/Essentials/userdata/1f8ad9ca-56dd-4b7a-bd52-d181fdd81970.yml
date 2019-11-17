@@ -1,0 +1,40 @@
+lastAccountName: lol54080
+timestamps:
+  login: 1566605308449
+  lastteleport: 1566605334093
+  lastheal: 1566432087777
+  kits:
+    grimreaper: 1566102285902
+    beserker: 1566102161403
+    pyro: 1566102658603
+    archer: 1566102611103
+    gladiator: 1565309780692
+    wizard: 1566102217052
+    tank: 1566102769002
+  logout: 1566607807112
+ipAddress: 172.4.62.115
+lastlocation:
+  world: world
+  x: 35.37493290454212
+  y: 107.86813623371742
+  z: 160.10515290607808
+  yaw: 59.249977
+  pitch: 35.39999
+nickname: twinkle
+afk: false
+money: '12550000'
+logoutlocation:
+  world: Creative
+  x: 236.56125487341052
+  y: 2.0
+  z: -126.72827574526295
+  yaw: -358.38953
+  pitch: 49.19992
+homes:
+  home:
+    world: world
+    x: 5556.5
+    y: 91.0
+    z: 2058.5
+    yaw: -88.499886
+    pitch: 39.75008

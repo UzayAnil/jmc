@@ -1,0 +1,11 @@
+# Core-element of MC Server Soft.
+# Provides real-time diagnostics and server telemetry.
+
+# URL of the mcss internal webserver
+url: "http://localhost:25560/api"
+
+# The GUID of the mcss server
+serverGUID: "123f5375-3497-49ef-8c18-37e1b6853e4e"
+
+# Enable or disable debugging of mcss requests
+debug: false

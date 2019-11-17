@@ -1,0 +1,22 @@
+lastAccountName: TEKKnight
+timestamps:
+  login: 1567301431299
+  logout: 1567306912767
+  lastteleport: 1567301446561
+  kits:
+    gladiator: 1567295844205
+ipAddress: 24.140.186.52
+logoutlocation:
+  world: world
+  x: -1.8003456308811203
+  y: 74.5
+  z: 165.01664994829736
+  yaw: -92.05876
+  pitch: -0.12294618
+lastlocation:
+  world: world
+  x: 66.30000001192093
+  y: 12.369332508616747
+  z: 254.69999998807907
+  yaw: -190.91318
+  pitch: 38.30435

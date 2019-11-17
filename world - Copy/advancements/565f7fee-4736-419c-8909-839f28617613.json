@@ -1,0 +1,128 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2019-08-08 19:58:16 -0400",
+      "has_iron_boots": "2019-08-08 19:58:16 -0400",
+      "has_iron_helmet": "2019-08-08 19:58:16 -0400",
+      "has_chainmail_chestplate": "2019-08-08 19:58:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-08-08 20:03:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-08-08 19:59:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-08-08 19:45:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-08 19:43:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-08-08 19:43:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2019-08-08 19:58:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-08-08 19:43:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-08-08 19:58:16 -0400",
+      "iron_helmet": "2019-08-08 19:58:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-08 19:43:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-08-08 19:59:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-08-08 19:43:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2019-08-08 19:58:16 -0400",
+      "has_iron_boots": "2019-08-08 19:58:16 -0400",
+      "has_iron_helmet": "2019-08-08 19:58:16 -0400",
+      "has_chainmail_chestplate": "2019-08-08 19:58:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-08-08 20:04:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-08-08 19:45:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-08-08 19:43:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2019-08-08 19:58:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2019-08-08 19:43:06 -0400",
+      "minecraft:taiga": "2019-08-08 19:43:39 -0400",
+      "minecraft:desert_hills": "2019-08-08 20:01:01 -0400",
+      "minecraft:desert": "2019-08-08 19:58:07 -0400",
+      "minecraft:deep_lukewarm_ocean": "2019-08-08 19:59:48 -0400",
+      "minecraft:beach": "2019-08-08 19:57:57 -0400",
+      "minecraft:river": "2019-08-08 19:58:58 -0400",
+      "minecraft:lukewarm_ocean": "2019-08-08 19:58:52 -0400",
+      "minecraft:wooded_mountains": "2019-08-08 19:49:41 -0400",
+      "minecraft:stone_shore": "2019-08-08 19:50:58 -0400",
+      "minecraft:plains": "2019-08-08 19:43:05 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}

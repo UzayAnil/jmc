@@ -1,0 +1,28 @@
+lastAccountName: AlexJonesLover
+timestamps:
+  login: 1564707828792
+  lastteleport: 1564707809138
+  logout: 1564707831679
+ipAddress: 108.3.149.180
+lastlocation:
+  world: world
+  x: 85.0093668983934
+  y: 69.17675927506424
+  z: 42.39581521725637
+  yaw: -163.84726
+  pitch: 5.725297
+homes:
+  home:
+    world: world
+    x: 369.0649164412283
+    y: 45.0
+    z: 118.5782256467074
+    yaw: 48.197365
+    pitch: 0.2997123
+logoutlocation:
+  world: HUB
+  x: 827.4318433275425
+  y: 47.0
+  z: -635.6400027713988
+  yaw: -178.5896
+  pitch: 5.84385

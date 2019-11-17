@@ -1,0 +1,44 @@
+[
+  {
+    "ip": "ale_redfox",
+    "created": "2019-08-17 23:59:07 -0400",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "ip": "71.191.149.55",
+    "created": "2019-08-06 22:16:21 -0400",
+    "source": "§d[§3§l%§r§b§lOWNER§r§3§l%§r§d]§4~§bFelix§0§r",
+    "expires": "forever",
+    "reason": "Impersonation of famous people / Using hacked clients to change name"
+  },
+  {
+    "ip": "74.67.19.11",
+    "created": "2019-08-01 11:59:59 -0400",
+    "source": "§d[§3§l%§r§b§lOWNER§r§3§l%§r§d]§4~§bFelix§0§r",
+    "expires": "forever",
+    "reason": "Lag inducing"
+  },
+  {
+    "ip": "86.139.248.107",
+    "created": "2019-08-03 17:15:42 -0400",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "Flyhacking / Possible speedhacking [Appeal at https://someminecraft.enjin.com/forum]"
+  },
+  {
+    "ip": "68.100.242.44",
+    "created": "2019-08-01 12:06:10 -0400",
+    "source": "§d[§3§l%§r§b§lOWNER§r§3§l%§r§d]§4~§bFelix§0§r",
+    "expires": "forever",
+    "reason": "Lag inducing / greifing"
+  },
+  {
+    "ip": "75.142.146.149",
+    "created": "2019-08-03 18:29:16 -0400",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

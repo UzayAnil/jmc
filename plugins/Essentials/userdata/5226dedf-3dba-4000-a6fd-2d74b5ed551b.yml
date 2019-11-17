@@ -1,0 +1,37 @@
+lastAccountName: h6n
+timestamps:
+  login: 1565121521679
+  logout: 1565121531782
+  lastteleport: 1565054723432
+  kits:
+    beserker: 1565050416953
+    pyro: 1565047870253
+    firework: 1565047996414
+    archer: 1565050303055
+    notch: 1565047916550
+    wizard: 1565050573653
+    tank: 1565050165155
+    dtools: 1565048069800
+ipAddress: 173.244.217.187
+logoutlocation:
+  world: HUB
+  x: 828.6722914502685
+  y: 47.0
+  z: -624.3000000119209
+  yaw: -298.13962
+  pitch: 23.093817
+lastlocation:
+  world: Creative
+  x: 163.22938277152173
+  y: 65.0
+  z: -217.0259750352225
+  yaw: 117.22082
+  pitch: 67.06465
+homes:
+  home:
+    world: HUB
+    x: 714.3450610520301
+    y: 4.0
+    z: -587.2806989431654
+    yaw: -2.5022285
+    pitch: 2.6652517

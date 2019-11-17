@@ -1,0 +1,28 @@
+lastAccountName: HunterHiHunter
+timestamps:
+  login: 1564677491592
+  logout: 1564677690341
+  lastteleport: 1564677659895
+ipAddress: 162.230.44.107
+logoutlocation:
+  world: world
+  x: 106.9013225568335
+  y: 11.0
+  z: -67.99504528611354
+  yaw: -2.622115
+  pitch: 13.595787
+homes:
+  home:
+    world: world
+    x: 4231.949175943495
+    y: 71.0
+    z: -6125.270807776959
+    yaw: 216.63928
+    pitch: 22.899626
+lastlocation:
+  world: world
+  x: 4386.592164626293
+  y: 63.7531999805212
+  z: -6450.769055779862
+  yaw: 289.87262
+  pitch: -5.9892616

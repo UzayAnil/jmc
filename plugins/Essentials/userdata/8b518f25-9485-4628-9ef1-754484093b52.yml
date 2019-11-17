@@ -1,0 +1,29 @@
+lastAccountName: jbones5263
+timestamps:
+  login: 1570930309881
+  logout: 1570930313685
+  lastteleport: 1567966407033
+ipAddress: 67.174.149.48
+logoutlocation:
+  world: HUB
+  x: 827.2610149254086
+  y: 47.0
+  z: -639.3072780768972
+  yaw: -246.08934
+  pitch: 1.3438522
+lastlocation:
+  world: world
+  x: 70.96654036031977
+  y: 78.0
+  z: 93.15312790516433
+  yaw: -1.0506368
+  pitch: 18.449978
+homes:
+  home:
+    world: world
+    x: 606.5011511916833
+    y: 72.0
+    z: -3240.6212935956432
+    yaw: -87.45016
+    pitch: 22.949968
+afk: false

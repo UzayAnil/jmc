@@ -1,0 +1,28 @@
+lastAccountName: Mr_Barber
+timestamps:
+  login: 1572793814790
+  logout: 1572795797332
+  lastteleport: 1572794033859
+ipAddress: 116.102.86.118
+homes:
+  home:
+    world: world
+    x: 379.08358871223317
+    y: 55.0
+    z: 169.74857777441144
+    yaw: -335.24353
+    pitch: 21.450058
+logoutlocation:
+  world: world
+  x: 398.33772027901966
+  y: 6.0
+  z: 345.26988013266543
+  yaw: -309.73743
+  pitch: -34.65004
+lastlocation:
+  world: world
+  x: 78.5740552921049
+  y: 78.0
+  z: 95.53924020179544
+  yaw: -177.49744
+  pitch: 77.12529

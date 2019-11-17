@@ -1,0 +1,28 @@
+lastAccountName: ARAZELL
+timestamps:
+  login: 1564680716993
+  logout: 1564686305735
+  lastteleport: 1564681953886
+ipAddress: 83.253.45.189
+lastlocation:
+  world: world
+  x: 78.5740552921049
+  y: 78.0
+  z: 95.53924020179544
+  yaw: -177.49744
+  pitch: 77.12529
+logoutlocation:
+  world: Creative
+  x: 218.7075653439306
+  y: 63.0
+  z: -262.5240045197372
+  yaw: -82.33331
+  pitch: 15.784024
+homes:
+  home:
+    world: Creative
+    x: 218.7075653439306
+    y: 63.0
+    z: -262.5240045197372
+    yaw: -178.59949
+    pitch: 9.321049

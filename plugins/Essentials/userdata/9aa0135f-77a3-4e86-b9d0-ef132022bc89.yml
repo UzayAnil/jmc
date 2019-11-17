@@ -1,0 +1,28 @@
+lastAccountName: Pabiso
+timestamps:
+  login: 1564838963439
+  lastteleport: 1564838977401
+  logout: 1564839008581
+ipAddress: 80.166.182.241
+homes:
+  home:
+    world: world
+    x: 366.8053366602899
+    y: 45.0
+    z: 120.51145598759379
+    yaw: -102.09772
+    pitch: -6.9713264
+lastlocation:
+  world: HUB
+  x: 826.5
+  y: 48.0
+  z: -637.5
+  yaw: -197.31998
+  pitch: 1.9151735
+logoutlocation:
+  world: world
+  x: 373.30000001192093
+  y: 40.0
+  z: 114.72541015704962
+  yaw: -178.79202
+  pitch: 23.444286

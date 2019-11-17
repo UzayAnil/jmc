@@ -1,0 +1,28 @@
+lastAccountName: KaleGlibbert
+timestamps:
+  login: 1569773883417
+  logout: 1569775905276
+  lastteleport: 1569774869908
+ipAddress: 83.86.32.183
+lastlocation:
+  world: FactionsWorld
+  x: 46.264107282509144
+  y: 67.0
+  z: 48.2600035769044
+  yaw: -13.799995
+  pitch: 22.949976
+homes:
+  home:
+    world: FactionsWorld
+    x: -318.65954396735634
+    y: 85.0
+    z: -647.1223514467081
+    yaw: -76.15317
+    pitch: 16.349157
+logoutlocation:
+  world: FactionsWorld
+  x: -328.0529302388997
+  y: 64.0
+  z: -585.2715346081686
+  yaw: 187.01733
+  pitch: -1.350014

@@ -1,0 +1,20 @@
+lastAccountName: RegularSoup
+timestamps:
+  login: 1570900492571
+  lastteleport: 1564623807177
+  logout: 1570900518982
+ipAddress: 24.94.43.76
+lastlocation:
+  world: world
+  x: 70.49362618668175
+  y: 78.0
+  z: 85.34698681883664
+  yaw: -194.08615
+  pitch: 18.75727
+logoutlocation:
+  world: world
+  x: 82.46503078176427
+  y: 78.0
+  z: 109.78701374138491
+  yaw: -28.262383
+  pitch: -28.876799

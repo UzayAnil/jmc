@@ -1,0 +1,58 @@
+lastAccountName: FelixIsNotSad
+timestamps:
+  login: 1572560669670
+  lastteleport: 1572562867866
+  logout: 1572563063623
+  kits:
+    grimreaper: 1572562957002
+    gladiator: 1572562903425
+ipAddress: 127.0.0.1
+nickname: §bFelix
+powertools:
+  golden_hoe:
+  - fireball
+  bone:
+  - spawnmob zombie 10
+  golden_shovel:
+  - spawnmob zombie,zombie,zombie,zombie,zombie,zombie,zombie,zombie,skeleton
+  diamond_axe:
+  - smite
+  wooden_sword:
+  - spawnmob zombie 10
+  bread:
+  - gmsp
+  iron_hoe:
+  - spawnmob irongolem 3
+  feather:
+  - gmsp
+lastlocation:
+  world: minigames
+  x: 18.845852238757782
+  y: 79.20000004768372
+  z: -32.19355111574348
+  yaw: 39.93033
+  pitch: 61.84676
+afk: false
+logoutlocation:
+  world: minigames
+  x: 310.0124532957503
+  y: 91.0
+  z: 188.4461716098538
+  yaw: 75.47629
+  pitch: 72.221405
+homes:
+  outpost:
+    world: world
+    x: 412.35886186703647
+    y: 64.0
+    z: 221.6253804015082
+    yaw: 133.89693
+    pitch: 8.79771
+  wc138:
+    world: world
+    x: 820.5649823599932
+    y: 63.0
+    z: 523.548192750847
+    yaw: -359.63284
+    pitch: 3.2186537
+godmode: false

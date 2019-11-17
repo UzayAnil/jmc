@@ -1,0 +1,19 @@
+#See https://github.com/Nokorbis/ar-command-signs/wiki/Custom-messages for more information about this file
+#Mon Aug 05 14:36:45 EDT 2019
+info.is_global_only_once=§bCan only be used once
+info.required_permissions=§bRequired permissions\:
+info.require_confirmation=§bRequires confirmation
+usage.player_once_already_used=§cYou have already used that command block.
+usage.global_once_already_used=§cSomeone has already used that command block.
+info.player_cooldown=§bPer player cooldown\: §e{TIME} 
+info.global_cooldown=§bGlobal cooldown\: §e{TIME}
+usage.confirmation.required=§cThis command block requires a confirmation. Please click again within 15 seconds.
+usage.economy.bypassed=§eYou have bypassed the cost of this command block.
+usage.player_cooldown=§cYou have already used this command block {TIME} ago. You must wait {REMAINING}.
+usage.not_enough_money=§cYou do NOT have enough money (§d{PRICE}§c) to use this command block.
+usage.you_paied=§eYou have payed §d{PRICE} §eto use this command block.
+usage.general_cooldown=§cThis command block has been used {TIME} ago. You must wait {REMAINING}.
+info.is_player_only_once=§bCan only be used once per player
+usage.miss_required_permission=§cYou do not have the needed permission \: {NEEDED_PERM} .
+info.costs_format=§bCosts\: §e{PRICE}
+info.permission_format=§7---{NUMBER}. {PERMISSION}

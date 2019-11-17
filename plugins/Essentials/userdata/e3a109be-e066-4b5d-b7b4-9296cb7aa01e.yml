@@ -1,0 +1,22 @@
+lastAccountName: optif
+timestamps:
+  login: 1565057196216
+  lastteleport: 1565058118716
+  mute: 0
+  logout: 1565058204366
+ipAddress: 199.247.111.47
+lastlocation:
+  world: world
+  x: 78.28962041943704
+  y: 70.02442408821369
+  z: 48.97736467576251
+  yaw: -205.1637
+  pitch: 47.264526
+muted: false
+logoutlocation:
+  world: factions
+  x: 193.53330646124817
+  y: 69.0
+  z: 1.1117574025120536
+  yaw: -171.20184
+  pitch: 23.259974

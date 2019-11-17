@@ -1,0 +1,29 @@
+lastAccountName: Doctor_Stevil
+timestamps:
+  login: 1565310406485
+  lastteleport: 1565036472635
+  logout: 1565311383810
+ipAddress: 98.114.220.234
+lastlocation:
+  world: world
+  x: 78.0
+  y: 78.0
+  z: 95.0
+  yaw: -62.20059
+  pitch: 14.085104
+logoutlocation:
+  world: Creative
+  x: 285.0578062117772
+  y: 67.0
+  z: -266.6340343122435
+  yaw: -224.62546
+  pitch: 19.12283
+homes:
+  home:
+    world: world
+    x: 376.699999988079
+    y: 45.0
+    z: 116.82315827118656
+    yaw: -242.91321
+    pitch: 16.717495
+nickname: doc

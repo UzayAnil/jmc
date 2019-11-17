@@ -1,0 +1,28 @@
+lastAccountName: Kittenlover1216
+timestamps:
+  login: 1568484707672
+  lastteleport: 1568484732117
+  logout: 1568484813878
+ipAddress: 108.78.149.194
+lastlocation:
+  world: HUB
+  x: 829.9124070103903
+  y: 47.0
+  z: -628.750724012039
+  yaw: -343.5897
+  pitch: 5.0938587
+homes:
+  home:
+    world: world
+    x: 830.5
+    y: 69.0
+    z: 872.5
+    yaw: 50.050823
+    pitch: 11.725488
+logoutlocation:
+  world: world
+  x: 808.3174671184395
+  y: 86.0
+  z: 932.8970135281583
+  yaw: -58.098938
+  pitch: 17.725489

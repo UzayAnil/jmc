@@ -1,0 +1,1 @@
+{"guid":"41fd0efe-bbe3-45b7-adf6-e656b38a33da","name":"real server","description":"Default Server Description","creationDate":"2019-07-29T16:47:45.0315347-04:00","instanceType":0,"version":null,"autostart":false,"forceSaveOnStop":true,"javaAllocatedMemory":4048,"javaStartupLine":"java -Xms256M -Xmx4048M -jar craftbukkit.jar --nojline","javaVariablePath":""}

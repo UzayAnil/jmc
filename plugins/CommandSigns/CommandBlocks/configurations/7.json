@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "disabled": false,
+  "activation_mode": "BOTH",
+  "location": {
+    "x": 314.0,
+    "y": 177.0,
+    "z": 174.0,
+    "world": "minigames"
+  },
+  "timer": {
+    "duration": 0,
+    "cancelled_on_move": false,
+    "reset_on_move": false
+  },
+  "commands": [
+    "i am stupid"
+  ],
+  "temporarily_granted_permissions": [],
+  "addons": {
+    "ncs_economy": {
+      "price": 100.0
+    },
+    "ncs_confirmation": {
+      "require_confirmation": false
+    },
+    "ncs_required_permissions": {
+      "required_permissions": []
+    },
+    "ncs_cooldowns": {
+      "global_cooldown": -1,
+      "player_cooldown": -1,
+      "is_global_once": false,
+      "is_player_once": false
+    }
+  }
+}

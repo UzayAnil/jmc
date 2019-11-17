@@ -1,0 +1,19 @@
+lastAccountName: UTC_Binky
+timestamps:
+  login: 1564624178959
+  logout: 1564624238768
+ipAddress: 74.67.19.11
+lastlocation:
+  world: world_the_end
+  x: -2.65659407613352
+  y: 64.0
+  z: -25.989020290547046
+  yaw: -309.00244
+  pitch: -11.8499365
+logoutlocation:
+  world: world_the_end
+  x: 1.7743350392489667
+  y: 31.419999986886978
+  z: -1.107723265105013
+  yaw: 99.15125
+  pitch: 17.849962

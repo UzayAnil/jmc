@@ -1,0 +1,25 @@
+lastAccountName: Ibepeloso
+timestamps:
+  login: 1565259292527
+  lastteleport: 1565259313000
+  kits:
+    beserker: 1565259316168
+    archer: 1565259315169
+    wizard: 1565259320568
+    tank: 1565259319469
+  logout: 1565259341690
+ipAddress: 94.100.43.176
+lastlocation:
+  world: world
+  x: 87.27357933024986
+  y: 78.0
+  z: 92.54107148694044
+  yaw: 64.50003
+  pitch: 9.60001
+logoutlocation:
+  world: factions
+  x: 190.64296234785314
+  y: 70.0
+  z: 9.733337759049121
+  yaw: 269.2501
+  pitch: -7.9499907

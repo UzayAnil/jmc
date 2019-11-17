@@ -1,0 +1,41 @@
+lastAccountName: zdch
+timestamps:
+  login: 1565106728153
+  logout: 1565106732095
+  lastteleport: 1565099579709
+  kits:
+    beserker: 1565050292554
+    firework: 1565047977565
+    pyro: 1565048042189
+    color: 1565047966265
+    archer: 1565050258654
+    notch: 1565047947444
+    wizard: 1565050125603
+    dtools: 1565048018718
+    tank: 1565050128555
+    tools: 1565047924276
+  mute: 0
+ipAddress: 68.100.110.9
+lastlocation:
+  world: Creative
+  x: 195.13037087558718
+  y: 63.0
+  z: -246.78183902626327
+  yaw: 156.128
+  pitch: 59.69581
+logoutlocation:
+  world: HUB
+  x: 827.2642082240337
+  y: 47.5
+  z: -638.2307446305609
+  yaw: -188.1668
+  pitch: 10.427092
+homes:
+  home:
+    world: HUB
+    x: 1689.1306424546342
+    y: 4.0
+    z: -1696.2816031832676
+    yaw: -146.92368
+    pitch: 1.265521
+muted: false

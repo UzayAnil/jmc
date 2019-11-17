@@ -1,0 +1,28 @@
+lastAccountName: GarstVanDeHood
+timestamps:
+  login: 1569787266757
+  lastteleport: 1569787280776
+  logout: 1569787493444
+ipAddress: 86.88.70.11
+lastlocation:
+  world: FactionsWorld
+  x: 47.5
+  y: 64.0
+  z: 47.5
+  yaw: -1.3500001
+  pitch: -0.15000002
+homes:
+  home:
+    world: FactionsWorld
+    x: -327.47556358733146
+    y: 62.0
+    z: -595.8084445844701
+    yaw: -215.50146
+    pitch: 44.69928
+logoutlocation:
+  world: FactionsWorld
+  x: -326.4179130285915
+  y: 62.0
+  z: -595.4718645437406
+  yaw: -189.1206
+  pitch: 44.999756

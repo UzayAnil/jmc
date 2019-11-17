@@ -1,0 +1,34 @@
+Auto_Update_On_Plugin_Enable: true
+Notify_On_Updates: true
+Allow_Usage_Stats_Collection: true
+Survival_Only: true
+Use_Nickname: true
+Use_Permissions: false
+Messages:
+  Found_Notification: '%ply found %amt %blk(s) (Visibility: %vis%)'
+  Must_Have_Light_To_Mine: Interacting in the dark is dangerous! Put some torches!
+Count_Diagonal_Ores: false
+EMERALDS: true
+DIAMONDS: true
+GOLD: true
+IRON: true
+COAL: true
+LAPIS: true
+REDSTONE: false
+Extra_Blocks: []
+Percentage_Chance_To_Give_Randoms_Item: 0
+Max_Random_Items_To_Give: 3
+Random_Item_To_Give: RAW_CHICKEN
+Must_Have_Light_To_Mine: false
+Ignore_Night_Vision_Mining_In_Dark: false
+SQL_Enabled: false
+SQL:
+  URL: localhost
+  Port: 3306
+  Database: minecraft
+  Days_To_Remove: 1
+  Maximum_Queries: 5000
+  Maximum_Data_Queries_Per_Second: 10
+  Prefix: fb
+  User: root@localhost
+  Pass: ''

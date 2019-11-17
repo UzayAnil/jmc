@@ -1,0 +1,39 @@
+lastAccountName: Chaos7kid
+timestamps:
+  login: 1566475633372
+  lastteleport: 1566252218845
+  logout: 1566475713407
+  lastheal: 1566255240480
+  kits:
+    grimreaper: 1566240718102
+    beserker: 1566240712402
+    pyro: 1566240716853
+    archer: 1566240708202
+    gladiator: 1566240698052
+    wizard: 1566240710653
+    tank: 1566240713903
+ipAddress: 98.225.39.104
+homes:
+  home:
+    world: world
+    x: 35.25719273590233
+    y: 98.0
+    z: 139.79141428713294
+    yaw: -267.4182
+    pitch: 35.654778
+lastlocation:
+  world: HUB
+  x: 818.6380312098029
+  y: 46.47579111702612
+  z: -624.9154554550666
+  yaw: -353.10718
+  pitch: -9.978528
+logoutlocation:
+  world: HUB
+  x: 827.4318433275425
+  y: 47.0
+  z: -635.6400027713988
+  yaw: -114.21582
+  pitch: 30.014822
+nickname: Chaos
+afk: false

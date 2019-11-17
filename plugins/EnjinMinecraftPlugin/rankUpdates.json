@@ -1,0 +1,141 @@
+{
+  "playerPerms": {
+    "Pabiso": {
+      "uuid": "9aa0135f-77a3-4e86-b9d0-ef132022bc89",
+      "worlds": {
+        "flatcreative": [
+          "Member"
+        ],
+        "world": [
+          "Member"
+        ],
+        "world_the_end": [
+          "Member"
+        ],
+        "HUB": [
+          "Member"
+        ],
+        "world_nether": [
+          "Member"
+        ],
+        "*": [
+          "Member"
+        ],
+        "factions": [
+          "Member"
+        ]
+      }
+    },
+    "Doctor_Stevil": {
+      "uuid": "72abb8ba-5147-43ab-ad1e-a03e6acc28ce",
+      "worlds": {
+        "flatcreative": [
+          "Member"
+        ],
+        "world": [
+          "Member"
+        ],
+        "world_the_end": [
+          "Member"
+        ],
+        "HUB": [
+          "Member"
+        ],
+        "world_nether": [
+          "Member"
+        ],
+        "*": [
+          "Member"
+        ],
+        "factions": [
+          "Member"
+        ]
+      }
+    },
+    "h6n": {
+      "uuid": "5226dedf-3dba-4000-a6fd-2d74b5ed551b",
+      "worlds": {
+        "flatcreative": [
+          "trialmod",
+          "Member"
+        ],
+        "world": [
+          "trialmod",
+          "Member"
+        ],
+        "world_the_end": [
+          "trialmod",
+          "Member"
+        ],
+        "HUB": [
+          "trialmod",
+          "Member"
+        ],
+        "world_nether": [
+          "trialmod",
+          "Member"
+        ],
+        "*": [
+          "trialmod",
+          "Member"
+        ],
+        "factions": [
+          "trialmod",
+          "Member"
+        ]
+      }
+    },
+    "ObamaGaming44": {
+      "uuid": "048d2f37-55a9-4de8-96db-75febd2e8696",
+      "worlds": {
+        "flatcreative": [
+          "Owner"
+        ],
+        "world": [
+          "Owner"
+        ],
+        "world_the_end": [
+          "Owner"
+        ],
+        "HUB": [
+          "Owner"
+        ],
+        "world_nether": [
+          "Owner"
+        ],
+        "*": [
+          "Owner"
+        ],
+        "factions": [
+          "Owner"
+        ]
+      }
+    },
+    "RhunoV1": {
+      "uuid": "e639c8b8-f6bc-4262-b5e9-5c5f7ee027e9",
+      "worlds": {
+        "flatcreative": [
+          "Member"
+        ],
+        "world": [
+          "Member"
+        ],
+        "world_the_end": [
+          "Member"
+        ],
+        "HUB": [
+          "Member"
+        ],
+        "world_nether": [
+          "Member"
+        ],
+        "*": [
+          "Member"
+        ],
+        "factions": [
+          "Member"
+        ]
+      }
+    }
+  }
+}

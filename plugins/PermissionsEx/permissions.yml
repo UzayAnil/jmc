@@ -1,0 +1,454 @@
+groups:
+  Member:
+    default: true
+    prefix: ' '
+    build: true
+    permissions:
+    - skyblock.protection.0
+    - island.1
+    - plots.home
+    - essentials.kit.*
+    - essentials.warp.*
+    - essential.kit.wizard
+    - essential.kit.pyro
+    - essential.kit.beserker
+    - essential.kit.archer
+    - essentials.signs.use
+    - essentials.signs.use.*
+    - essentials.signs.use.kit
+    - essentials.signs.use.Kit
+    - essentials.kit.tank
+    - plots.plot.4
+    - plots.flag.*
+    - plots.delete
+    - plots.clear
+    - plots.auto
+    - plots.use
+    - plots.claim
+    - plot.claim
+    - factions.kit.fullplayer
+    - hubthat.hub
+    - multiverse.portal.access.*
+    - essentials.baltop
+    - essentials.balance
+    - bountyhunters.leaderboard
+    - bountyhunters.quotes
+    - bountyhunters.titles
+    - bountyhunters.list
+    - bountyhunters.add
+    - bountyhunters.claim
+    - bounties.bounty
+    - essentials.warp
+    - ChestShop.shop.*
+    - modifyworld.*
+    - essentials.help
+    - essentials.rules
+    - essentials.motd
+    - essentials.afk
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.depth
+    - essentials.delhome
+    - essentials.help
+    - essentials.home
+    - essentials.kit
+    - essentials.kit.tools
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.motd
+    - essentials.msg
+    - essentials.ping
+    - essentials.r
+    - essentials.rules
+    - essentials.seen
+    - essentials.sethome
+    - essentials.signs.use.disposal
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    options:
+      prefix: '&9[Member]&7'
+      suffix: '&f'
+      default: 'true'
+    worlds:
+      HUB:
+        permissions:
+        - essentials.kits.beserker
+        - essentials.kits.wizard
+        - essentials.kits.archer
+        - essentials.kits.tank
+      minigames:
+        permissions:
+        - essentials.clearinventory
+        - essentials.clear
+        - essentials.kits.gladiator
+        - essentials.kits.wizard
+        - essentials.kits.archer
+        - essentials.kits.tank
+        - essentials.kits.beserker
+        - essentials.kits.grimreaper
+        - essentials.kits.pyro
+  VIP:
+    default: false
+    prefix: ' '
+    inheritance:
+    - Guest
+    - Member
+    build: true
+    permissions:
+    - essentials.hat
+    - plot.merge
+    - plot.plot.10
+    - essentials.disposal
+    - essentials.extingush
+    - essentials.feed
+    - essentials.fly
+    - essentials.nick
+    - essentials.help
+    - essentials.rules
+    - essentials.motd
+    options:
+      prefix: '&9&l[VIP]&r'
+  Mod:
+    default: false
+    prefix: ' '
+    inheritance:
+    - VIP
+    - Member
+    - Guest
+    build: true
+    permissions:
+    - essentials.sethome.multiple.staff
+    - essentials.helpop
+    - essentials.home.others
+    - essentials.nick
+    - essentials.warp
+    - essentials.warp.list
+    options:
+      prefix: '&1&l[Mod]&r'
+  Admin:
+    default: false
+    prefix: ' '
+    inheritance:
+    - Mod
+    - VIP
+    - Member
+    - Guest
+    build: true
+    permissions:
+    - essentials.gamemode.all
+    - essentials.tp
+    - essentials.ban
+    - essentials.kick
+    - essentials.gamemode
+    - essentials.give
+    - essentials.god
+    options:
+      prefix: '&c&l[Admin]'
+  Owner:
+    default: false
+    prefix: ' '
+    build: true
+    permissions:
+    - FelixIsLessSad
+    - '*'
+    options:
+      prefix: '&d[&3&l%&r&b&lOWNER&r&3&l%&r&d]'
+      suffix: '&0'
+  coowner:
+    options:
+      prefix: '&4&l[#Co-Owner#]&c'
+    permissions:
+    - chestshop.shop.*
+    - chestshop.sell
+    - chestshop.buy
+    - essentials.*
+  trialmod:
+    options:
+      inheritance:
+      - Mod
+      prefix: '&l&b[TrialMod]&r'
+    permissions:
+    - essentials.nick.changecolors.bypass
+    - essentials.nick.changecolors
+    - essentials.nick
+    - essentials.feed
+    - essentials.fly
+    - essentials.chat.spy
+    - essentials.mute
+  default:
+    options:
+      default: 'false'
+  builder:
+    inheritance:
+    - Member
+    permissions:
+    - essentials.gamemode.all
+    - essentials.gamemode
+    - worldedit.*
+    - essentials.gmc
+    - essentials.nick
+    - essentials.fly
+    options:
+      prefix: '&3[Builder]&r'
+schema-version: 1
+users:
+  048d2f37-55a9-4de8-96db-75febd2e8696:
+    permissions:
+    - ChestShop.admin
+    - '*'
+    worlds:
+      Owner:
+        options:
+          prefix: add
+    options:
+      name: FelixIsNotSad
+    group:
+    - Owner
+  1f8ad9ca-56dd-4b7a-bd52-d181fdd81970:
+    options:
+      name: lol54080
+    group:
+    - VIP
+    - Member
+    permissions:
+    - ChestShop.shop.*
+  fbaab662-ded2-4dbf-a52f-b30c022a19a6:
+    group:
+    - VIP
+    - Member
+    options:
+      name: GM_Inder
+    permissions:
+    - essentials.fly
+  ef4ea8fa-1aeb-4809-98e3-83fe91959ed8:
+    group:
+    - Mod
+    - Member
+    options:
+      name: Sam_Yat_San
+    permissions:
+    - essentials.pay
+    - modifyworld.*
+    - ChestShop.shop.*
+    - chestshop.shop.*
+    worlds:
+      coowner:
+        permissions: []
+  0f2cb155-e808-4b7e-8c65-12d440bdab17:
+    group:
+    - Member
+    options:
+      name: xxswagmasterxx32
+  d3611fd2-88e3-40f3-a94e-ff692d08087b:
+    group:
+    - Member
+    options:
+      name: Ludvig41
+  c078b7e1-d3d0-4027-99ae-d3cb9d1a23c2:
+    group:
+    - co-owner
+    - Admin
+    - Member
+    options:
+      name: __Futaba__
+  322eb7ef-60a4-4956-a707-a22e9630bdb8:
+    group:
+    - Member
+    options:
+      name: HunterHiHunter
+  superajgaming:
+    group:
+    - Member
+  f8cb38e9-33e1-45fe-a2d6-5656ba773bdd:
+    group:
+    - Member
+    options:
+      name: gilbs13
+  68b5b0e1-ed7b-4051-b78a-c88aaa6b34a1:
+    group:
+    - Member
+    options:
+      name: The_Haruchai
+  a4599e57-c6f8-4759-811b-d0b4bf33a8c6:
+    group:
+    - Member
+    options:
+      name: RicanPatriot
+  32e1886d-9d5e-4d23-905f-cbefc9116c98:
+    group:
+    - Member
+    options:
+      name: CoolDadDee
+  db70c646-791a-4cf1-a7b1-a7d581880629:
+    group:
+    - Member
+    options:
+      name: Garryyy
+  1ac7f8d4-71f8-4b4f-9493-e5ed76387a26:
+    group:
+    - Member
+    options:
+      name: youresotoxic
+  group:
+    permissions:
+    - member
+  495853fe-685f-4329-8d82-15565584e5fc:
+    group:
+    - Member
+    options:
+      name: Lurktastic
+  5a09f902-084f-4cfc-91e9-556764d054cd:
+    group:
+    - Member
+    options:
+      name: AshSoot
+  018f7d86-527e-4923-932a-970d783d9ecb:
+    group:
+    - Member
+    options:
+      name: _Cardinal_
+  b5dead14-4e4e-4ffe-a556-11a229c3e17f:
+    group:
+    - trialmod
+    - Member
+    options:
+      name: Chaos7kid
+  989e2a44-c658-4c6a-885a-3a766ccf5157:
+    group:
+    - Member
+    options:
+      name: Nexus_Doge
+  79dd9281-dd77-43bc-be65-ffe6024f3b0e:
+    group:
+    - Member
+    options:
+      name: Neemsyo
+  0cf534b6-3930-453a-b409-ef17f49b9378:
+    group:
+    - Member
+    options:
+      name: Etank77
+  e0ecdb49-0ea5-4aaa-9762-506c84228742:
+    group:
+    - Member
+    options:
+      name: SlendyXx
+  9426cade-7fc8-481f-8eec-6f36ea0ef6c6:
+    group:
+    - Member
+    options:
+      name: Julian0_0
+  e5af8cda-656a-4857-9496-e637571281f2:
+    group:
+    - Member
+    options:
+      name: Lv_
+  e69ce34c-400b-4249-a096-1a8b08246923:
+    group:
+    - Member
+    options:
+      name: raiderbunyip
+  06c6ab85-a010-4d4d-b9ed-e3a41cb1c8e8:
+    group:
+    - Member
+    options:
+      name: 0xSec
+  844e41ff-5b2e-42f3-a4a4-28109c5404f1:
+    group:
+    - Member
+    options:
+      name: Rushedx
+  6ccaf20e-9602-489b-a258-6debdf3c7ae4:
+    group:
+    - Member
+    options:
+      name: BluMangoes
+  ef18b4ca-1551-4923-9bb9-6acfd034aa55:
+    group:
+    - Member
+    options:
+      name: ConfusedPossum
+  d743a633-4491-4741-94cb-7848bbd538ce:
+    group:
+    - Member
+    options:
+      name: DaffyTV
+  b7ae81e6-f7d2-4909-b9bf-65460c60a151:
+    group:
+    - Member
+    options:
+      name: Mavamune
+  72abb8ba-5147-43ab-ad1e-a03e6acc28ce:
+    options:
+      name: Doctor_Stevil
+    group:
+    - trialmod
+    - VIP
+    - Member
+  5858fc35-eaaa-4770-897b-a79fff79bfe5:
+    group:
+    - Member
+    options:
+      name: baxxey
+  9aa0135f-77a3-4e86-b9d0-ef132022bc89:
+    group:
+    - Member
+    options:
+      name: Pabiso
+  5226dedf-3dba-4000-a6fd-2d74b5ed551b:
+    group:
+    - Member
+    options:
+      name: h6n
+  e639c8b8-f6bc-4262-b5e9-5c5f7ee027e9:
+    group:
+    - Member
+    options:
+      name: zdch
+  e9930afe-c319-4791-9f0f-d96711628490:
+    group:
+    - Member
+    options:
+      name: UTC_Binky
+  46fd6f21-d15e-4b9f-b95a-2e7c8e86561b:
+    group:
+    - Member
+    options:
+      name: Pharts
+  a99c0e00-f378-476e-97c2-3852f0e09979:
+    group:
+    - Member
+    options:
+      name: StrongOne
+  57449fa4-3f51-46f2-92f4-1da797d63de9:
+    group:
+    - Member
+    options:
+      name: RegularSoup
+  bd8c470c-2b7e-4a1b-86f0-e3107859fbd4:
+    group:
+    - Member
+    options:
+      name: Pranalevichi
+  b46c98f8-97b4-4b3c-b65c-022b22113841:
+    group:
+    - Member
+    options:
+      name: godjohn
+  565f7fee-4736-419c-8909-839f28617613:
+    group:
+    - Admin
+    - Mod
+    options:
+      name: Wongsarenice
+  80ccec73-7cee-4279-8601-a91fa6934336:
+    group:
+    - VIP
+    options:
+      name: VelvetSalt4231

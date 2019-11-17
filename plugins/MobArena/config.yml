@@ -1,0 +1,172 @@
+global-settings:
+  enabled: true
+  allowed-commands: /list, /pl
+  update-notification: true
+  prefix: '&a[MobArena] '
+  pet-items:
+    wolf: bone
+    ocelot: salmon
+classes:
+  Knight:
+    items: diamond_sword, potion:instant_heal:3
+    armor: iron_helmet, iron_chestplate, iron_leggings, iron_boots
+    classchest: 9,65,4,0.0,0.0,minigames
+  Tank:
+    items: iron_sword, potion:instant_heal:2
+    armor: diamond_helmet, diamond_chestplate, diamond_leggings, diamond_boots
+    effects: slow, health_boost
+    classchest: 10,65,6,0.0,0.0,minigames
+  Archer:
+    items: wooden_sword, bow, arrow:256, potion:instant_heal:3, bone
+    armor: leather_helmet, leather_chestplate, leather_leggings, leather_boots
+    effects: speed
+    classchest: 11,65,6,0.0,0.0,minigames
+  Healer:
+    items: wooden_sword, splash_potion:instant_heal:64, splash_potion:speed:64
+    armor: chainmail_helmet, leather_chestplate, chainmail_leggings,leather_boots
+    classchest: 12,65,6,0.0,0.0,minigames
+  Beserker:
+    items: iron_axe, potion:instant_heal:3
+    armor: golden_helmet, golden_chestplate, golden_leggings, golden_boots
+    effects: speed:2
+    classchest: 13,65,6,0.0,0.0,minigames
+  Apprentice:
+    items: stone_sword, splash_potion:slowness:3 , splash_potion:weakness:3
+    armor: leather_helmet, iron_chestplate, leather_leggings, leather_boots
+    classchest: 14,65,4,0.0,0.0,minigames
+  Wolfmaster:
+    items: bone:64, salmon:64, potion:instant_heal:64
+    armor: leather_helmet, leather_chestplate, leather_leggings, leather_boots
+    effects: speed:5
+arenas:
+  default:
+    settings:
+      prefix: ''
+      world: minigames
+      enabled: true
+      protect: true
+      entry-fee: ''
+      default-class: ''
+      clear-wave-before-next: true
+      clear-boss-before-next: true
+      clear-wave-before-boss: true
+      soft-restore: false
+      soft-restore-drops: false
+      require-empty-inv-join: false
+      require-empty-inv-spec: false
+      pvp-enabled: false
+      monster-infight: false
+      allow-teleporting: false
+      spectate-on-death: true
+      auto-respawn: true
+      share-items-in-arena: true
+      min-players: 0
+      max-players: 0
+      max-join-distance: 0
+      join-interrupt-timer: 0
+      first-wave-delay: 5
+      next-wave-delay: 0
+      wave-interval: 15
+      final-wave: 0
+      monster-limit: 100
+      monster-exp: false
+      keep-exp: false
+      food-regen: false
+      lock-food-level: true
+      player-time-in-arena: world
+      auto-ignite-tnt: false
+      auto-start-timer: 0
+      start-delay-timer: 0
+      auto-ready: false
+      use-class-chests: false
+      boss-health-bar: boss-bar
+      display-waves-as-level: false
+      display-timer-as-level: false
+      use-scoreboards: true
+      isolated-chat: true
+      global-join-announce: true
+      global-end-announce: true
+      show-death-messages: true
+    waves:
+      recurrent:
+        def1:
+          type: default
+          priority: 1
+          frequency: 1
+          monsters:
+            zombies: 10
+            skeletons: 10
+            spiders: 10
+            creepers: 10
+            wolves: 10
+        spec1:
+          type: special
+          priority: 2
+          frequency: 4
+          monsters:
+            powered-creepers: 10
+            zombie-pigmen: 10
+            angry-wolves: 10
+            blazes: 10
+      single:
+        swarm1:
+          type: swarm
+          wave: 6
+          monster: slime
+          amount: low
+        boss1:
+          type: boss
+          wave: 10
+          monster: zombie
+          health: medium
+          abilities: arrows, root-target, throw-nearby
+    rewards:
+      waves:
+        every:
+          '3': feather, bone, stick
+          '5': dirt:4, gravel:4, stone:4
+          '10': iron_ingot:10, gold_ingot:8 eco give 100
+        after:
+          '7': minecart, chest_minecart, furnace_minecart
+          '13': iron_sword, iron_pickaxe, iron_shovel
+          '16': diamond_sword
+    coords:
+      spawnpoints:
+        26,65,-28: 26.5,65,-27.5,0.0,0.0,minigames
+        26,65,-29: 26.5,65,-28.5,0.0,0.0,minigames
+        2,65,-15: 2.5,65,-14.5,0.0,0.0,minigames
+        -4,65,-24: -3.5,65,-23.5,0.0,0.0,minigames
+        -3,65,-36: -2.5,65,-35.5,0.0,0.0,minigames
+        2,65,-43: 2.5,65,-42.5,0.0,0.0,minigames
+        9,65,-46: 9.5,65,-45.5,0.0,0.0,minigames
+        13,65,-45: 13.5,65,-44.5,0.0,0.0,minigames
+        19,65,-46: 19.5,65,-45.5,0.0,0.0,minigames
+        21,65,-43: 21.5,65,-42.5,0.0,0.0,minigames
+        20,65,-40: 20.5,65,-39.5,0.0,0.0,minigames
+        15,65,-34: 15.5,65,-33.5,0.0,0.0,minigames
+        12,65,-27: 12.5,65,-26.5,0.0,0.0,minigames
+        16,65,-23: 16.5,65,-22.5,0.0,0.0,minigames
+        15,65,-18: 15.5,65,-17.5,0.0,0.0,minigames
+        15,65,-14: 15.5,65,-13.5,0.0,0.0,minigames
+      containers:
+        13,65,6: 13,65,6,0.0,0.0,minigames
+        12,65,6: 12,65,6,0.0,0.0,minigames
+        11,65,6: 11,65,6,0.0,0.0,minigames
+        10,65,6: 10,65,6,0.0,0.0,minigames
+        9,65,4: 9,65,4,0.0,0.0,minigames
+        14,65,4: 14,65,4,0.0,0.0,minigames
+      p1: -11,64,-50,0.0,0.0,minigames
+      p2: 35,72,-7,0.0,0.0,minigames
+      arena: 12.5,65,-28.5,-356.29,0.0,minigames
+      lobby: 11.5,65,2.5,-1.65,0.0,minigames
+      spectator: 13.5,73,-9.5,-182.97,0.0,minigames
+      exit: 32.5,78,-27.5,-275.3,0.0,minigames
+      l1: 9,64,-6,0.0,0.0,minigames
+      l2: 14,69,6,0.0,0.0,minigames
+    class-limits:
+      Oddjob: -1
+      Knight: -1
+      Archer: -1
+      My Items: -1
+      Tank: -1
+      Chemist: -1

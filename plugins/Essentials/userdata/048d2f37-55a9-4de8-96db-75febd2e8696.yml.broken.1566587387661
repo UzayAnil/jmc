@@ -1,0 +1,55 @@
+lastAccountName: ObamaGaming44
+timestamps:
+  login: 1566432577390
+  logout: 1566415763265
+  lastteleport: 1566434550852
+  kits:
+    grimreaper: 1565306200699
+    beserker: 1566102548851
+    pyro: 1565230171583
+    archer: 1566240769251
+    gladiator: 1566102464201
+    wizard: 1565306251125
+    tank: 1565308837089
+    dtools: 1565045892589
+    vip: 1566109129621
+ipAddress: 24.140.186.52
+nickname: §bFelix
+logoutlocation:
+  world: Creative
+  x: 26.99941077479782
+  y: 79.1800885304326
+  z: 1583.4169207112966
+  yaw: -275.42645
+  pitch: 28.222603
+lastlocation:
+  world: Creative
+  x: 295.30000001192093
+  y: 63.0
+  z: -192.6601773441062
+  yaw: -213.47011
+  pitch: 12.292677
+godmode: false
+money: '63986446065.0'
+afk: false
+powertools:
+  diamond_hoe:
+  - spawnmob creeper,skeleton,tntminecart
+  wooden_shovel:
+  - spawnmob zombie,tntminecart
+  iron_hoe:
+  - spawnmob bat,tntminecart
+  golden_hoe:
+  - spawnmob creeper,skeleton
+socialspy: true
+homes:
+  kitpvp:
+    world: minigames
+    x: 314.9830802379938
+    y: 176.0
+    z: 175.88517889227873
+    yaw: 263.84225
+    pitch: -35.926205
+teleportenabled: false
+unlimited:
+- !!org.bukkit.Material 'NOTE_BLOCK'

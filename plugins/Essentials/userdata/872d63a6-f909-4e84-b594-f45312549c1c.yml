@@ -1,0 +1,20 @@
+lastAccountName: RLM5017
+timestamps:
+  login: 1564864240282
+  logout: 1564864533483
+  lastteleport: 1564864473935
+ipAddress: 86.139.248.107
+logoutlocation:
+  world: world
+  x: -2916.1350574584444
+  y: 79.14544839991038
+  z: 4247.693984749939
+  yaw: 45.550823
+  pitch: 8.100085
+lastlocation:
+  world: world
+  x: 78.5740552921049
+  y: 78.0
+  z: 95.53924020179544
+  yaw: -177.49744
+  pitch: 77.12529
